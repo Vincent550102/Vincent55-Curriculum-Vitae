@@ -28,4 +28,4 @@ jobs:
           external_repository: Vincent550102/Vincent55-Curriculum-Vitae
           publish_dir: ./docs
           publish_branch: gh-page 
-          cname: blog.steveyi.net 
+          cname: vincent55.tw 
