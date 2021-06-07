@@ -3,7 +3,6 @@ title: "About"
 date: 2021-06-07T22:43:23+08:00
 author: "Vincent55"
 type: post
-draft: true
 ---
 
 ## 我是誰 whoami
