@@ -1,0 +1,24 @@
+<
+ooter class="footer">
+  <div class="footer__inner">
+    {{ if $.Site.Copyright }}
+      <div class="copyright copyright--user">
+        <span>{{ $.Site.Copyright | safeHTML }}</span>
+    {{ else }}
+      <div class="copyright">
+          <span>© {{ now.Year }} <a href='https://github.com/Vincent550102'>Vincent55</a> Powered by <a href="http://gohugo.io">Hugo</a></span>
+    {{ end }}
+    <span>and <a href='https://github.com/panr/hugo-theme-terminal.git'>Terminal</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="{{ "assets/main.js" | absURL }}"></script>
+<script src="{{ "assets/prism.js" | absURL }}"></script>
+
+{{ if $.Site.Params.showLanguageSelector }}
+  <script src="{{ "assets/languageSelector.js" | absURL }}"></script>
+{{ end }}
+
+<!-- Extended footer section-->
+{{ partial "extended_footer.html" . }}
