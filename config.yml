@@ -17,6 +17,14 @@ params:
   # center theme with default width
   centerTheme: true
 
+minify:
+  disableXML: true
+  minifyOutput: true
+
+author:
+  name: Vincent55
+  homepage: https://vincent55.tw
+
 languages:
   en:
     languageName: English
