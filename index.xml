@@ -14,7 +14,7 @@
       <guid>/about/</guid>
       <description>&amp;lt;Chinese/English&amp;gt; 我是誰 whoami  對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 之前碰過競程，最近接觸CTF。 110特殊選才正取成大資工系。   技能樹 Skills  程式語言 Programming Language  C/C++ Python HTML5+CSS3+Javascript Kotlin PHP Shell Scripts   工具 Tools  Window/Linux Docker Git Vim     比賽成績 Competition   專案 Project
  2019 全國高中高瞻計畫 - 金牌獎 2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作 2020 全國高級中等學校小論文競賽 - 甲等獎 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee出具Comments report    算法競賽 Competitive Programming</description>
-      <content>&lt;h3 id=&#34;chineseenglishabout-en&#34;&gt;&amp;lt;Chinese/&lt;a href=&#34;/about-en/&#34;&gt;English&lt;/a&gt;&amp;gt;&lt;/h3&gt;
+      <content>&lt;h3 id=&#34;chineseenglishabout-en&#34;&gt;&amp;lt;&lt;strong&gt;Chinese&lt;/strong&gt;/&lt;a href=&#34;/about-en/&#34;&gt;English&lt;/a&gt;&amp;gt;&lt;/h3&gt;
 &lt;h2 id=&#34;我是誰-whoami&#34;&gt;我是誰 whoami&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。&lt;/li&gt;
