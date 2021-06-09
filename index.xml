@@ -1,260 +1,323 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vincent55' CV</title><link>/</link><description>Recent content on Vincent55' CV</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 22:00:51 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>中文測試</title><link>/posts/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link><pubDate>Mon, 07 Jun 2021 22:00:51 +0800</pubDate><guid>/posts/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid><description/><content/></item><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Mon, 07 Jun 2021 22:00:12 +0800</pubDate><guid>/posts/hello-world/</guid><description/><content/></item><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&amp;lt;Chinese/English&amp;gt; 我是誰 whoami 對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 之前碰過競程，最近接觸CTF。 110特殊選才正取成大資工系。 技能樹 Skills 程式語言 Programming Language C/C++ Python HTML5+CSS3+Javascript Kotlin PHP Shell Scripts 工具 Tools Window/Linux Docker Git Vim 比賽成績 Competition 專案 Project
-2019 全國高中高瞻計畫 - 金牌獎 2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作 2020 全國高級中等學校小論文競賽 - 甲等獎 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee出具Comments report 算法競賽 Competitive Programming</description><content>&lt;h3 id="chineseenglishabout-en">&amp;lt;Chinese/&lt;a href="/about-en/">English&lt;/a>&amp;gt;&lt;/h3>
-&lt;h2 id="我是誰-whoami">我是誰 whoami&lt;/h2>
-&lt;ul>
-&lt;li>對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。&lt;/li>
-&lt;li>之前碰過競程，最近接觸CTF。&lt;/li>
-&lt;li>110特殊選才正取成大資工系。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="技能樹-skills">技能樹 Skills&lt;/h2>
-&lt;ul>
-&lt;li>程式語言 Programming Language
-&lt;ul>
-&lt;li>C/C++&lt;/li>
-&lt;li>Python&lt;/li>
-&lt;li>HTML5+CSS3+Javascript&lt;/li>
-&lt;li>Kotlin&lt;/li>
-&lt;li>PHP&lt;/li>
-&lt;li>Shell Scripts&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>工具 Tools
-&lt;ul>
-&lt;li>Window/Linux&lt;/li>
-&lt;li>Docker&lt;/li>
-&lt;li>Git&lt;/li>
-&lt;li>Vim&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="比賽成績-competition">比賽成績 Competition&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>專案 Project&lt;/p>
-&lt;ul>
-&lt;li>2019 全國高中高瞻計畫 - 金牌獎&lt;/li>
-&lt;li>2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作&lt;/li>
-&lt;li>2020 全國高級中等學校小論文競賽 - 甲等獎&lt;/li>
-&lt;li>2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee出具Comments report&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>算法競賽 Competitive Programming&lt;/p>
-&lt;ul>
-&lt;li>2019 NPSC網際網路程式設計全國大賽 - 優勝(Team)&lt;/li>
-&lt;li>2019 校內資訊學科能力競賽 - 第三名&lt;/li>
-&lt;li>2020 校內資訊學科能力競賽 - 第一名&lt;/li>
-&lt;li>2020 台北市資訊學科能力競賽 - 佳作&lt;/li>
-&lt;li>2020 Toi新手同好會 - 個人組第六名&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>搶旗攻防賽 Capture The Flag&lt;/p>
-&lt;ul>
-&lt;li>2021 T貓盃全國資安基礎實務能力競賽 高中職組 特優 (solo)&lt;/li>
-&lt;li>2021 AIS3 Pre-exam - rk.58&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>數學競賽 Math Competition&lt;/p>
-&lt;ul>
-&lt;li>2020 全國澳洲 AMC 中學高級組 - 優等獎 Distinction Certificate&lt;/li>
-&lt;li>2021 美國 AMC 12A - 非常優良獎 Excellent 120Pt&lt;/li>
-&lt;li>2021 AIME participant&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="實習經驗-intern-experience">實習經驗 Intern Experience&lt;/h2>
-&lt;ul>
-&lt;li>2020 iKala WebCrawler Intern&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="活動參與-event-participation">活動參與 Event Participation&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;h3 id="2018">2018&lt;/h3>
-&lt;ul>
-&lt;li>2018 韋音耶誕鋼琴發表日&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;h3 id="2019">2019&lt;/h3>
-&lt;ul>
-&lt;li>2019 IONCamp 清大暑期程式競賽集訓營&lt;/li>
-&lt;li>2019 資訊安全暑訓營 MyFirstSecurity Summer Camp&lt;/li>
-&lt;li>2019 錄製國立教育廣播電臺AR/VR相關內容 &lt;a href="https://www.ner.gov.tw/program/5a83f4ebc5fd8a01e2df020c/5e0d82131c66c500063e98e0">來去VR體驗車&lt;/a>&lt;/li>
-&lt;li>2019 智慧柑仔店揭幕主持&lt;/li>
-&lt;li>2019 SITCON Camp&lt;/li>
-&lt;li>2019 MOPCON&lt;/li>
-&lt;li>2019 合作備忘錄儀式 &lt;a href="https://www.mdnkids.com/search_content.asp?Serial_NO=%20111631">國語日報:培育AI教師認證 北市與臺大簽署備忘錄&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;h3 id="2020">2020&lt;/h3>
-&lt;ul>
-&lt;li>2020 3R/V 科技研究社 副社長兼教學長&lt;/li>
-&lt;li>2020 資訊之芽培訓計畫 算法班&lt;/li>
-&lt;li>2020 IOICAMP 台大程式解題競賽集訓營&lt;/li>
-&lt;li>2020 交大人才培育計畫_人工智慧與深度學習&lt;/li>
-&lt;li>2020 開設校內外 APCS 學習營隊&lt;/li>
-&lt;li>2020 台大簡報課&lt;/li>
-&lt;li>2020 SITCON&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;h3 id="2021">2021&lt;/h3>
-&lt;ul>
-&lt;li>2021 IOICAMP 台大程式解題競賽集訓營&lt;/li>
-&lt;li>2021 SITCON 場務組機動股員&lt;/li>
-&lt;li>2021 SITCON Camp 隊輔組副組長&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></content></item><item><title>About En</title><link>/about-en/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about-en/</guid><description>&amp;lt;Chinese/English&amp;gt; Whoami Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.
-I&amp;rsquo;ve encountered Competitive Programming before, and I recently contacted CTF.
-110Special admitted NCKU CS.
-Skills Programming Language C/C++ Python HTML5+CSS3+Javascript Kotlin PHP Shell Scripts Tools Window/Linux Docker Git Vim Competition Project</description><content>&lt;h3 id="chineseaboutenglish">&amp;lt;&lt;a href="/about/">Chinese&lt;/a>/English&amp;gt;&lt;/h3>
-&lt;hr>
-&lt;h2 id="whoami">Whoami&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>I&amp;rsquo;ve encountered Competitive Programming before, and I recently contacted CTF.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>110Special admitted NCKU CS.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="skills">Skills&lt;/h2>
-&lt;ul>
-&lt;li>Programming Language
-&lt;ul>
-&lt;li>C/C++&lt;/li>
-&lt;li>Python&lt;/li>
-&lt;li>HTML5+CSS3+Javascript&lt;/li>
-&lt;li>Kotlin&lt;/li>
-&lt;li>PHP&lt;/li>
-&lt;li>Shell Scripts&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Tools
-&lt;ul>
-&lt;li>Window/Linux&lt;/li>
-&lt;li>Docker&lt;/li>
-&lt;li>Git&lt;/li>
-&lt;li>Vim&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="competition">Competition&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Project&lt;/p>
-&lt;ul>
-&lt;li>2019 全國高中高瞻計畫 - Gold Medal Award&lt;/li>
-&lt;li>2020 中等學校學生科學研究獎助實施計畫 - excellent work&lt;/li>
-&lt;li>2020 全國高級中等學校小論文競賽 - 甲等獎&lt;/li>
-&lt;li>2020 Tsukuba Science Edge - Review Committee出具Comments report&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Competitive Programming&lt;/p>
-&lt;ul>
-&lt;li>2019 NPSC National Problem Solving Contest - 優勝(Team)&lt;/li>
-&lt;li>2019 School Competitive Programming Contest - Rank 3&lt;/li>
-&lt;li>2020 School Competitive Programming Contest - Rank 1&lt;/li>
-&lt;li>2020 Taipei Competitive Programming Contest - excellent work&lt;/li>
-&lt;li>2020 Toi Novice Club - Rank 6&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Capture The Flag&lt;/p>
-&lt;ul>
-&lt;li>2021 T貓盃全國資安基礎實務能力競賽 High School Group Premium (solo)&lt;/li>
-&lt;li>2021 AIS3 Pre-exam - Rank.58&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Math Competition&lt;/p>
-&lt;ul>
-&lt;li>2020 Australia AMC High School Group - Distinction Certificate&lt;/li>
-&lt;li>2021 America AMC 12A - Excellent 120Pt&lt;/li>
-&lt;li>2021 AIME participant&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="intern-experience">Intern Experience&lt;/h2>
-&lt;ul>
-&lt;li>2020 iKala WebCrawler Intern&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="event-participation">Event Participation&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;h3 id="2018">2018&lt;/h3>
-&lt;ul>
-&lt;li>2018 韋音耶誕鋼琴發表日&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;h3 id="2019">2019&lt;/h3>
-&lt;ul>
-&lt;li>2019 IONCamp&lt;/li>
-&lt;li>2019 MyFirstSecurity Summer Camp&lt;/li>
-&lt;li>2019 錄製國立教育廣播電臺AR/VR相關內容 &lt;a href="https://www.ner.gov.tw/program/5a83f4ebc5fd8a01e2df020c/5e0d82131c66c500063e98e0">來去VR體驗車&lt;/a>&lt;/li>
-&lt;li>2019 Hosting 智慧柑仔店揭幕&lt;/li>
-&lt;li>2019 SITCON Camp&lt;/li>
-&lt;li>2019 MOPCON&lt;/li>
-&lt;li>2019 合作備忘錄儀式 &lt;a href="https://www.mdnkids.com/search_content.asp?Serial_NO=%20111631">國語日報:培育AI教師認證 北市與臺大簽署備忘錄&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;h3 id="2020">2020&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>2020 3R/V 科技研究社 Vice President and Dean of Teaching&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2020 Sprout Algorithm&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2020 IOICAMP&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2020 交大人才培育計畫_Artificial intelligence and deep learning&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2020 open APCS Camp&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2020 台大簡報課&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>2020 SITCON&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;h3 id="2021">2021&lt;/h3>
-&lt;ul>
-&lt;li>2021 IOICAMP&lt;/li>
-&lt;li>2021 SITCON Field Affairs Team Mobility Unit&lt;/li>
-&lt;li>2021 SITCON Camp Deputy Leader of the Counseling Group&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></content></item><item><title>Contacts</title><link>/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contacts/</guid><description> Name: 楊竣鴻 ID: Vincent55 E-Mail: 5020559@gmail.com GitHub: Vincent550102 Instagram: @vincent55010266 Telegram: @Vincent550102 Facebook: 楊竣鴻 (Vincent Yang)</description><content>&lt;ul>
-&lt;li>Name: 楊竣鴻&lt;/li>
-&lt;li>ID: Vincent55&lt;/li>
-&lt;li>E-Mail: &lt;a href="mailto:5020559@gmail.com">5020559@gmail.com&lt;/a>&lt;/li>
-&lt;li>GitHub: &lt;a href="https://github.com/Vincent550102">Vincent550102&lt;/a>&lt;/li>
-&lt;li>Instagram: &lt;a href="https://www.instagram.com/vincent55010266/">@vincent55010266&lt;/a>&lt;/li>
-&lt;li>Telegram: &lt;a href="https://t.me/Vincent550102">@Vincent550102&lt;/a>&lt;/li>
-&lt;li>Facebook: &lt;a href="https://www.facebook.com/profile.php?id=100006484806838">楊竣鴻 (Vincent Yang)&lt;/a>&lt;/li>
-&lt;/ul></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent55&#39; CV</title>
+    <link>/</link>
+    <description>Recent content on Vincent55&#39; CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jun 2021 22:00:51 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中文測試</title>
+      <link>/posts/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
+      <pubDate>Mon, 07 Jun 2021 22:00:51 +0800</pubDate>
+      
+      <guid>/posts/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Mon, 07 Jun 2021 22:00:12 +0800</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&amp;lt;Chinese/English&amp;gt; 我是誰 whoami  對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 之前碰過競程，最近接觸CTF。 110特殊選才正取成大資工系。   技能樹 Skills  程式語言 Programming Language  C/C++ Python HTML5+CSS3+Javascript Kotlin PHP Shell Scripts   工具 Tools  Window/Linux Docker Git Vim     比賽成績 Competition   專案 Project
+ 2019 全國高中高瞻計畫 - 金牌獎 2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作 2020 全國高級中等學校小論文競賽 - 甲等獎 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee出具Comments report    算法競賽 Competitive Programming</description>
+      <content>&lt;h3 id=&#34;chineseenglishabout-en&#34;&gt;&amp;lt;Chinese/&lt;a href=&#34;/about-en/&#34;&gt;English&lt;/a&gt;&amp;gt;&lt;/h3&gt;
+&lt;h2 id=&#34;我是誰-whoami&#34;&gt;我是誰 whoami&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。&lt;/li&gt;
+&lt;li&gt;之前碰過競程，最近接觸CTF。&lt;/li&gt;
+&lt;li&gt;110特殊選才正取成大資工系。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;技能樹-skills&#34;&gt;技能樹 Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;程式語言 Programming Language
+&lt;ul&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;HTML5+CSS3+Javascript&lt;/li&gt;
+&lt;li&gt;Kotlin&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Shell Scripts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;工具 Tools
+&lt;ul&gt;
+&lt;li&gt;Window/Linux&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;比賽成績-competition&#34;&gt;比賽成績 Competition&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;專案 Project&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 全國高中高瞻計畫 - 金牌獎&lt;/li&gt;
+&lt;li&gt;2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作&lt;/li&gt;
+&lt;li&gt;2020 全國高級中等學校小論文競賽 - 甲等獎&lt;/li&gt;
+&lt;li&gt;2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee出具Comments report&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;算法競賽 Competitive Programming&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 NPSC網際網路程式設計全國大賽 - 優勝(Team)&lt;/li&gt;
+&lt;li&gt;2019 校內資訊學科能力競賽 - 第三名&lt;/li&gt;
+&lt;li&gt;2020 校內資訊學科能力競賽 - 第一名&lt;/li&gt;
+&lt;li&gt;2020 台北市資訊學科能力競賽 - 佳作&lt;/li&gt;
+&lt;li&gt;2020 Toi新手同好會 - 個人組第六名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;搶旗攻防賽 Capture The Flag&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 T貓盃全國資安基礎實務能力競賽 高中職組 特優 (solo)&lt;/li&gt;
+&lt;li&gt;2021 AIS3 Pre-exam - rk.58&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;數學競賽 Math Competition&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 全國澳洲 AMC 中學高級組 - 優等獎 Distinction Certificate&lt;/li&gt;
+&lt;li&gt;2021 美國 AMC 12A - 非常優良獎 Excellent 120Pt&lt;/li&gt;
+&lt;li&gt;2021 AIME participant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;實習經驗-intern-experience&#34;&gt;實習經驗 Intern Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 iKala WebCrawler Intern&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;活動參與-event-participation&#34;&gt;活動參與 Event Participation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2018&#34;&gt;2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2018 韋音耶誕鋼琴發表日&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 IONCamp 清大暑期程式競賽集訓營&lt;/li&gt;
+&lt;li&gt;2019 資訊安全暑訓營 MyFirstSecurity Summer Camp&lt;/li&gt;
+&lt;li&gt;2019 錄製國立教育廣播電臺AR/VR相關內容 &lt;a href=&#34;https://www.ner.gov.tw/program/5a83f4ebc5fd8a01e2df020c/5e0d82131c66c500063e98e0&#34;&gt;來去VR體驗車&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2019 智慧柑仔店揭幕主持&lt;/li&gt;
+&lt;li&gt;2019 SITCON Camp&lt;/li&gt;
+&lt;li&gt;2019 MOPCON&lt;/li&gt;
+&lt;li&gt;2019 合作備忘錄儀式 &lt;a href=&#34;https://www.mdnkids.com/search_content.asp?Serial_NO=%20111631&#34;&gt;國語日報:培育AI教師認證 北市與臺大簽署備忘錄&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 3R/V 科技研究社 副社長兼教學長&lt;/li&gt;
+&lt;li&gt;2020 資訊之芽培訓計畫 算法班&lt;/li&gt;
+&lt;li&gt;2020 IOICAMP 台大程式解題競賽集訓營&lt;/li&gt;
+&lt;li&gt;2020 交大人才培育計畫_人工智慧與深度學習&lt;/li&gt;
+&lt;li&gt;2020 開設校內外 APCS 學習營隊&lt;/li&gt;
+&lt;li&gt;2020 台大簡報課&lt;/li&gt;
+&lt;li&gt;2020 SITCON&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 IOICAMP 台大程式解題競賽集訓營&lt;/li&gt;
+&lt;li&gt;2021 SITCON 場務組機動股員&lt;/li&gt;
+&lt;li&gt;2021 SITCON Camp 隊輔組副組長&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About En</title>
+      <link>/about-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about-en/</guid>
+      <description>&amp;lt;Chinese/English&amp;gt;  Whoami   Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.
+  I&amp;rsquo;ve encountered Competitive Programming before, and I recently contacted CTF.
+  110Special admitted NCKU CS.
+   Skills  Programming Language  C/C++ Python HTML5+CSS3+Javascript Kotlin PHP Shell Scripts   Tools  Window/Linux Docker Git Vim     Competition   Project</description>
+      <content>&lt;h3 id=&#34;chineseaboutenglish&#34;&gt;&amp;lt;&lt;a href=&#34;/about/&#34;&gt;Chinese&lt;/a&gt;/English&amp;gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;whoami&#34;&gt;Whoami&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;ve encountered Competitive Programming before, and I recently contacted CTF.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;110Special admitted NCKU CS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Language
+&lt;ul&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;HTML5+CSS3+Javascript&lt;/li&gt;
+&lt;li&gt;Kotlin&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Shell Scripts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tools
+&lt;ul&gt;
+&lt;li&gt;Window/Linux&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;competition&#34;&gt;Competition&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Project&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 全國高中高瞻計畫 - Gold Medal Award&lt;/li&gt;
+&lt;li&gt;2020 中等學校學生科學研究獎助實施計畫 - excellent work&lt;/li&gt;
+&lt;li&gt;2020 全國高級中等學校小論文競賽 - 甲等獎&lt;/li&gt;
+&lt;li&gt;2020 Tsukuba Science Edge - Review Committee出具Comments report&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Competitive Programming&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 NPSC National Problem Solving Contest - 優勝(Team)&lt;/li&gt;
+&lt;li&gt;2019 School Competitive Programming Contest - Rank 3&lt;/li&gt;
+&lt;li&gt;2020 School Competitive Programming Contest - Rank 1&lt;/li&gt;
+&lt;li&gt;2020 Taipei Competitive Programming Contest - excellent work&lt;/li&gt;
+&lt;li&gt;2020 Toi Novice Club - Rank 6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Capture The Flag&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 T貓盃全國資安基礎實務能力競賽 High School Group Premium (solo)&lt;/li&gt;
+&lt;li&gt;2021 AIS3 Pre-exam - Rank.58&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Math Competition&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 Australia AMC High School Group - Distinction Certificate&lt;/li&gt;
+&lt;li&gt;2021 America AMC 12A - Excellent 120Pt&lt;/li&gt;
+&lt;li&gt;2021 AIME participant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;intern-experience&#34;&gt;Intern Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 iKala WebCrawler Intern&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-participation&#34;&gt;Event Participation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2018&#34;&gt;2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2018 韋音耶誕鋼琴發表日&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 IONCamp&lt;/li&gt;
+&lt;li&gt;2019 MyFirstSecurity Summer Camp&lt;/li&gt;
+&lt;li&gt;2019 錄製國立教育廣播電臺AR/VR相關內容 &lt;a href=&#34;https://www.ner.gov.tw/program/5a83f4ebc5fd8a01e2df020c/5e0d82131c66c500063e98e0&#34;&gt;來去VR體驗車&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2019 Hosting 智慧柑仔店揭幕&lt;/li&gt;
+&lt;li&gt;2019 SITCON Camp&lt;/li&gt;
+&lt;li&gt;2019 MOPCON&lt;/li&gt;
+&lt;li&gt;2019 合作備忘錄儀式 &lt;a href=&#34;https://www.mdnkids.com/search_content.asp?Serial_NO=%20111631&#34;&gt;國語日報:培育AI教師認證 北市與臺大簽署備忘錄&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2020 3R/V 科技研究社 Vice President and Dean of Teaching&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020 Sprout Algorithm&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020 IOICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020 交大人才培育計畫_Artificial intelligence and deep learning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020 open APCS Camp&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020 台大簡報課&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020 SITCON&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 IOICAMP&lt;/li&gt;
+&lt;li&gt;2021 SITCON Field Affairs Team Mobility Unit&lt;/li&gt;
+&lt;li&gt;2021 SITCON Camp Deputy Leader of the Counseling Group&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contacts/</guid>
+      <description> Name: 楊竣鴻 ID: Vincent55 E-Mail: 5020559@gmail.com GitHub: Vincent550102 Instagram: @vincent55010266 Telegram: @Vincent550102 Facebook: 楊竣鴻 (Vincent Yang)  </description>
+      <content>&lt;ul&gt;
+&lt;li&gt;Name: 楊竣鴻&lt;/li&gt;
+&lt;li&gt;ID: Vincent55&lt;/li&gt;
+&lt;li&gt;E-Mail: &lt;a href=&#34;mailto:5020559@gmail.com&#34;&gt;5020559@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/Vincent550102&#34;&gt;Vincent550102&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/vincent55010266/&#34;&gt;@vincent55010266&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Telegram: &lt;a href=&#34;https://t.me/Vincent550102&#34;&gt;@Vincent550102&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/profile.php?id=100006484806838&#34;&gt;楊竣鴻 (Vincent Yang)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
