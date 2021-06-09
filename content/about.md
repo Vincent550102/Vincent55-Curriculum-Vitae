@@ -1,10 +1,10 @@
 ---
 title: "About"
 author: "Vincent55"
-type: post
+type: content
 ---
 
-### <Chinese/[English](/about-en/)>
+### <**Chinese**/[English](/about-en/)>
 
 ## 我是誰 whoami
 - 對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。

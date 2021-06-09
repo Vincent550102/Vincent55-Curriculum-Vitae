@@ -25,6 +25,10 @@ author:
   name: Vincent55
   homepage: https://vincent55.tw/about
 
+permalinks:
+posts: "/:filename/"
+categories: "/categories/:slug/"
+
 languages:
   en:
     languageName: en
