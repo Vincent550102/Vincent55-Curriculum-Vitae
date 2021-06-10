@@ -10,7 +10,6 @@ author: "Vincent55"
 ## Whoami
 - Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.
 - I've encountered Competitive Programming before, and I recently contacted CTF.
-
 - 110Special admitted NCKU CS.
 
 ---
@@ -40,12 +39,12 @@ author: "Vincent55"
     - 2020 Tsukuba Science Edge - Review Committee出具Comments report
 
 - Competitive Programming
-
     - 2019 NPSC National Problem Solving Contest - 優勝(Team)
     - 2019 School Competitive Programming Contest - Rank 3
     - 2020 School Competitive Programming Contest - Rank 1
     - 2020 Taipei Competitive Programming Contest - excellent work
     - 2020 Toi Novice Club - Rank 6
+    - 2021 3/23 CPE Collegiate Programming Examination - Rank 27/2394 Solve 5/7
 
 - Capture The Flag
     - 2021 T貓盃全國資安基礎實務能力競賽 High School Group Premium (solo)
@@ -77,7 +76,6 @@ author: "Vincent55"
     - 2020 Sprout Algorithm
     - 2020 IOICAMP
     - 2020 交大人才培育計畫_Artificial intelligence and deep learning
-
     - 2020 open APCS Camp
     - 2020 台大簡報課
     - 2020 SITCON 

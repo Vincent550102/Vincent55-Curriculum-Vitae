@@ -16,6 +16,8 @@ params:
       # center theme with default width
       centerTheme: true
 
+googleAnalytics: UA-199212659-1
+
 minify:
       disableXML: true
       minifyOutput: true

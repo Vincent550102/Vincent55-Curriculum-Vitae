@@ -38,12 +38,12 @@ type: content
     - 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee出具Comments report
 
 - 算法競賽 Competitive Programming
-
     - 2019 NPSC網際網路程式設計全國大賽 - 優勝(Team)
     - 2019 校內資訊學科能力競賽 - 第三名
     - 2020 校內資訊學科能力競賽 - 第一名
     - 2020 台北市資訊學科能力競賽 - 佳作
     - 2020 Toi新手同好會 - 個人組第六名
+    - 2021 3/23 CPE 大學程式能力檢定 - rk.27/2394 Solve 5/7
 
 - 搶旗攻防賽 Capture The Flag
     - 2021 T貓盃全國資安基礎實務能力競賽 高中職組 特優 (solo)
