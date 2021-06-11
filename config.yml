@@ -10,11 +10,12 @@ params:
       # if you set this to 0, only submenu trigger will be visible
       showMenuItems: 5
       # show selector to switch language
-      showLanguageSelector: true
+      showLanguageSelector: false
       # set theme to full screen width
       fullWidthTheme: true
       # center theme with default width
       centerTheme: true
+      showFullContent: true
 
 googleAnalytics: UA-199212659-1
 

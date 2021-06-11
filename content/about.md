@@ -1,8 +1,9 @@
----
-title: "About"
-author: "Vincent55"
-type: content
----
++++
+title = "About"
+author = "Vincent55"
+type = "content"
++++
+
 
 ### <**Chinese**/[English](/about-en/)>
 
