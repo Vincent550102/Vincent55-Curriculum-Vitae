@@ -52,7 +52,7 @@ type = "content"
 
 - 數學競賽 Math Competition
     - 2020 全國澳洲 AMC 中學高級組 - 優等獎 Distinction Certificate
-    - 2021 美國 AMC 12A - 非常優良獎 Excellent 120Pt
+    - 2021 美國 AMC 12A - 非常優良獎 Excellent 102Pt
     - 2021 AIME participant
 
 ---

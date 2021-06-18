@@ -52,7 +52,7 @@ author: "Vincent55"
 
 - Math Competition
     - 2020 Australia AMC High School Group - Distinction Certificate
-    - 2021 America AMC 12A - Excellent 120Pt
+    - 2021 America AMC 12A - Excellent 102Pt
     - 2021 AIME participant
 
 ---
