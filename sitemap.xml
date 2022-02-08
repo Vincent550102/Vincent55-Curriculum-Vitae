@@ -3,11 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>/about-en/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about-en/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
