@@ -10,7 +10,7 @@ type = "content"
 ## 我是誰
 - 對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。
 - 開發 -> 競程 -> 爬蟲 -> CTF -> 網路 -> ...
-- 成大資工系大一
+- 成大資工系 freshman
 
 ---
 
@@ -19,6 +19,7 @@ type = "content"
     - C/C++
     - Python
     - HTML5+CSS3+JavaScript
+    - Node.js（runtime）
     - PHP
     - Shell Scripts
 - 工具 Tools
@@ -58,12 +59,18 @@ type = "content"
 
 ---
 ## 實習經驗
-- 2020 iKala WebCrawler Intern
+- 2020/7/20~2020/8/28 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern
+    - 資料分析
+    - 自動化生成爬蟲 — 將原本20分鐘製作爬蟲速度縮短至20秒便可產生
+    - API 半自動查找工具撰寫
 
 
 ---
 
 ## 演講經歷
+
+- ### 2022
+    - 國立成功大學計算機系統與網路管理(NA/SA)課程助教@成功大學
 - ### 2021 
     - 特殊選才經驗分享@永春高中
     - SITCON Hour Of Code 台南場總召兼講者@成功大學
@@ -73,10 +80,10 @@ type = "content"
 
 ---
 
-## 社群研討會經歷
-
+## 社群研討會與社群志工經歷
+- ### 2022
+    - 2022 SITCON 場務組機動股長@中央研究院
 - ### 2021 
-
     - 2021 SITCON Summer Camp 隊輔組副組長@線上參與
     - 2021 SITCON Hour of Code 台南場總召兼講者@成功大學
     - 2021 SITCON@線上參與
@@ -91,13 +98,17 @@ type = "content"
 - ### 2019
     - 2019 SITCON Camp@海洋大學
     - 2019 MOPCON@高雄國際會議中心 ICCK
+
 ---
 
 ## 其他活動與課程參與
+
+- ### 2022
+    - 2022 國立成功大學計算機系統與網路管理(NA/SA)課程助教
 - ### 2021
     - 2021 AIS3 Summer Camp
     - 2021 IOICAMP 台大程式解題競賽集訓營
-    - 2021 iThome 鐵人賽 30天主題競賽完賽 AI&Data
+    - 2021 iThome 鐵人賽 30天主題競賽完賽 AI&Data [ref](https://ithelp.ithome.com.tw/users/20134430/ironman/4307)
 - ### 2020
     - 2020 資訊之芽培訓計畫 算法班
     - 2020 IOICAMP 台大程式解題競賽集訓營
