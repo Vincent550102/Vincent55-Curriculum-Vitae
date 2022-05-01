@@ -7,191 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/about-en/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about-en/</guid>
-      <description>title: &amp;ldquo;About En&amp;rdquo; author: &amp;ldquo;Vincent55&amp;rdquo; &amp;lt;Chinese/English&amp;gt;  Whoami  Curious about the principles of various fields of information, and will not let the future illusion, continue to explore. develop -&amp;gt; Competitive Programming -&amp;gt; WebCrawler -&amp;gt; CTF -&amp;gt; Computer Network -&amp;gt; &amp;hellip; NCKU CS freshman   Skills  Programming Language  C/C++ Python HTML5+CSS3+Javascript Kotlin PHP Shell Scripts   Tools  Window/Linux Proxmox VE Docker Git Vim     Competition   Project</description>
-      <content>&lt;h2 id=&#34;author-vincent55&#34;&gt;title: &amp;ldquo;About En&amp;rdquo;
-author: &amp;ldquo;Vincent55&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;chineseaboutenglish&#34;&gt;&amp;lt;&lt;a href=&#34;/about/&#34;&gt;Chinese&lt;/a&gt;/English&amp;gt;&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;whoami&#34;&gt;Whoami&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.&lt;/li&gt;
-&lt;li&gt;develop -&amp;gt; Competitive Programming -&amp;gt; WebCrawler -&amp;gt; CTF -&amp;gt; Computer Network -&amp;gt; &amp;hellip;&lt;/li&gt;
-&lt;li&gt;NCKU CS freshman&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Programming Language
-&lt;ul&gt;
-&lt;li&gt;C/C++&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;HTML5+CSS3+Javascript&lt;/li&gt;
-&lt;li&gt;Kotlin&lt;/li&gt;
-&lt;li&gt;PHP&lt;/li&gt;
-&lt;li&gt;Shell Scripts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Tools
-&lt;ul&gt;
-&lt;li&gt;Window/Linux&lt;/li&gt;
-&lt;li&gt;Proxmox VE&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;Git&lt;/li&gt;
-&lt;li&gt;Vim&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;competition&#34;&gt;Competition&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Project&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2019 全國高中高瞻計畫 - Gold Medal Award&lt;/li&gt;
-&lt;li&gt;2020 中等學校學生科學研究獎助實施計畫 - excellent work&lt;/li&gt;
-&lt;li&gt;2020 Tsukuba Science Edge - Review Committee出具Comments report&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Competitive Programming&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2019 NPSC National Problem Solving Contest - 優勝(Team)&lt;/li&gt;
-&lt;li&gt;2020 School Competitive Programming Contest - Rank 1&lt;/li&gt;
-&lt;li&gt;2020 Taipei Competitive Programming Contest - excellent work&lt;/li&gt;
-&lt;li&gt;2020 Toi Novice Club - Rank 6&lt;/li&gt;
-&lt;li&gt;2021 3/23 CPE Collegiate Programming Examination - Rank 27/2394 Solve 5/7&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Capture The Flag&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2021 T貓盃全國資安基礎實務能力競賽 High School Group Premium (solo)&lt;/li&gt;
-&lt;li&gt;2021 AIS3 Pre-exam - Rank.58&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Math Competition&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2020 Australia AMC High School Group - Distinction Certificate&lt;/li&gt;
-&lt;li&gt;2021 America AMC 12A - Excellent 102Pt&lt;/li&gt;
-&lt;li&gt;2021 AIME participant&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;intern-experience&#34;&gt;Intern Experience&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;2020 iKala WebCrawler Intern&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;演講經歷&#34;&gt;演講經歷&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2021 Special selection experience sharing@YCSH&lt;/li&gt;
-&lt;li&gt;2021 SITCON Hour Of Code Tainan Founder and Speaker@NCKU&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2020 APCS Camp Founder and Speaker@YCSH&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;社群研討會經歷&#34;&gt;社群研討會經歷&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2021-1&#34;&gt;2021&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2021 SITCON Summer Camp vice counselor@Online&lt;/li&gt;
-&lt;li&gt;2021 SITCON Hour Of Code Tainan Founder and Speaker@NCKU&lt;/li&gt;
-&lt;li&gt;2021 SITCON@Online&lt;/li&gt;
-&lt;li&gt;2021 HITCON@Academia Sinica&lt;/li&gt;
-&lt;li&gt;2021 CYBERSEC@Taipei Nangang Exhibition Center, Hall 2&lt;/li&gt;
-&lt;li&gt;2021 coding-X Competitive camp teaching assistant@NCKU&lt;/li&gt;
-&lt;li&gt;2021 Special selection experience sharing@YCSH&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2020-1&#34;&gt;2020&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2020 3R/V 科技研究社 Vice President and Dean of Teaching@永春高中&lt;/li&gt;
-&lt;li&gt;2020 APCS Camp Founder and Speaker@YCSH&lt;/li&gt;
-&lt;li&gt;2020 SITCON@Academia Sinica&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2019 SITCON Camp@NTOU&lt;/li&gt;
-&lt;li&gt;2019 MOPCON@ICCK&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;其他活動與課程參與&#34;&gt;其他活動與課程參與&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2021-2&#34;&gt;2021&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2021 AIS3 Summer Camp&lt;/li&gt;
-&lt;li&gt;2021 IOICAMP&lt;/li&gt;
-&lt;li&gt;2021 iThome&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2020-2&#34;&gt;2020&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2020 Sprout Algorithm&lt;/li&gt;
-&lt;li&gt;2020 IOICAMP&lt;/li&gt;
-&lt;li&gt;2020 交大人才培育計畫_Artificial intelligence and deep learning&lt;/li&gt;
-&lt;li&gt;2020 台大簡報課&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2019-1&#34;&gt;2019&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2019 IONCamp&lt;/li&gt;
-&lt;li&gt;2019 MyFirstSecurity Summer Camp&lt;/li&gt;
-&lt;li&gt;2019 錄製國立教育廣播電臺AR/VR相關內容 &lt;a href=&#34;https://www.ner.gov.tw/program/5a83f4ebc5fd8a01e2df020c/5e0d82131c66c500063e98e0&#34;&gt;來去VR體驗車&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;2019 Hosting 智慧柑仔店揭幕&lt;/li&gt;
-&lt;li&gt;2019 SITCON Camp&lt;/li&gt;
-&lt;li&gt;2019 MOPCON&lt;/li&gt;
-&lt;li&gt;2019 合作備忘錄儀式 &lt;a href=&#34;https://www.mdnkids.com/search_content.asp?Serial_NO=%20111631&#34;&gt;國語日報:培育AI教師認證 北市與臺大簽署備忘錄&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;2018&#34;&gt;2018&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2018 韋音耶誕鋼琴發表日&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&amp;lt;Chinese/English&amp;gt; 我是誰  對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; &amp;hellip; 成大資工系大一   技能樹  程式語言 Programming Language  C/C++ Python HTML5+CSS3+JavaScript PHP Shell Scripts   工具 Tools  Window/Linux Proxmox VE Docker Git Vim     競賽成績   專案
+      <description>&amp;lt;Chinese/English&amp;gt; 我是誰  對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; &amp;hellip; 成大資工系 freshman   技能樹  程式語言 Programming Language  C/C++ Python HTML5+CSS3+JavaScript Node.js（runtime） PHP Shell Scripts   工具 Tools  Window/Linux Proxmox VE Docker Git Vim     競賽成績   專案
  2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee出具Comments report 2019 全國高中高瞻計畫 - 金牌獎    算法競賽</description>
       <content>&lt;h3 id=&#34;chineseenglishabout-en&#34;&gt;&amp;lt;&lt;strong&gt;Chinese&lt;/strong&gt;/&lt;a href=&#34;/about-en/&#34;&gt;English&lt;/a&gt;&amp;gt;&lt;/h3&gt;
 &lt;h2 id=&#34;我是誰&#34;&gt;我是誰&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。&lt;/li&gt;
 &lt;li&gt;開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; &amp;hellip;&lt;/li&gt;
-&lt;li&gt;成大資工系大一&lt;/li&gt;
+&lt;li&gt;成大資工系 freshman&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;技能樹&#34;&gt;技能樹&lt;/h2&gt;
@@ -201,6 +29,7 @@ author: &amp;ldquo;Vincent55&amp;rdquo;&lt;/h2&gt;
 &lt;li&gt;C/C++&lt;/li&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;HTML5+CSS3+JavaScript&lt;/li&gt;
+&lt;li&gt;Node.js（runtime）&lt;/li&gt;
 &lt;li&gt;PHP&lt;/li&gt;
 &lt;li&gt;Shell Scripts&lt;/li&gt;
 &lt;/ul&gt;
@@ -255,11 +84,23 @@ author: &amp;ldquo;Vincent55&amp;rdquo;&lt;/h2&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;實習經驗&#34;&gt;實習經驗&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;2020 iKala WebCrawler Intern&lt;/li&gt;
+&lt;li&gt;2020/7/20~2020/8/28 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern
+&lt;ul&gt;
+&lt;li&gt;資料分析&lt;/li&gt;
+&lt;li&gt;自動化生成爬蟲 — 將原本20分鐘製作爬蟲速度縮短至20秒便可產生&lt;/li&gt;
+&lt;li&gt;API 半自動查找工具撰寫&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;演講經歷&#34;&gt;演講經歷&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;國立成功大學計算機系統與網路管理(NA/SA)課程助教@成功大學&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
 &lt;ul&gt;
@@ -275,8 +116,14 @@ author: &amp;ldquo;Vincent55&amp;rdquo;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;社群研討會經歷&#34;&gt;社群研討會經歷&lt;/h2&gt;
+&lt;h2 id=&#34;社群研討會與社群志工經歷&#34;&gt;社群研討會與社群志工經歷&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2022-1&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 SITCON 場務組機動股長@中央研究院&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;h3 id=&#34;2021-1&#34;&gt;2021&lt;/h3&gt;
 &lt;ul&gt;
@@ -309,11 +156,17 @@ author: &amp;ldquo;Vincent55&amp;rdquo;&lt;/h2&gt;
 &lt;h2 id=&#34;其他活動與課程參與&#34;&gt;其他活動與課程參與&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;h3 id=&#34;2022-2&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 國立成功大學計算機系統與網路管理(NA/SA)課程助教&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;h3 id=&#34;2021-2&#34;&gt;2021&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;2021 AIS3 Summer Camp&lt;/li&gt;
 &lt;li&gt;2021 IOICAMP 台大程式解題競賽集訓營&lt;/li&gt;
-&lt;li&gt;2021 iThome 鐵人賽 30天主題競賽完賽 AI&amp;amp;Data&lt;/li&gt;
+&lt;li&gt;2021 iThome 鐵人賽 30天主題競賽完賽 AI&amp;amp;Data &lt;a href=&#34;https://ithelp.ithome.com.tw/users/20134430/ironman/4307&#34;&gt;ref&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -346,17 +199,212 @@ author: &amp;ldquo;Vincent55&amp;rdquo;&lt;/h2&gt;
     </item>
     
     <item>
+      <title>About En</title>
+      <link>/about-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about-en/</guid>
+      <description>&amp;lt;Chinese/English&amp;gt;  Whoami  Curious about the principles of various fields of information, and will not let the future illusion, continue to explore. develop -&amp;gt; Competitive Programming -&amp;gt; WebCrawler -&amp;gt; CTF -&amp;gt; Computer Network -&amp;gt; &amp;hellip; NCKU CS freshman   Skills  Programming Language  C/C++ Python HTML5+CSS3+Javascript Node.js（runtime） PHP Shell Scripts   Tools  Window/Linux Proxmox VE Docker Git Vim     Competition   Project</description>
+      <content>&lt;h3 id=&#34;chineseaboutenglish&#34;&gt;&amp;lt;&lt;a href=&#34;/about/&#34;&gt;Chinese&lt;/a&gt;/&lt;strong&gt;English&lt;/strong&gt;&amp;gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;whoami&#34;&gt;Whoami&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.&lt;/li&gt;
+&lt;li&gt;develop -&amp;gt; Competitive Programming -&amp;gt; WebCrawler -&amp;gt; CTF -&amp;gt; Computer Network -&amp;gt; &amp;hellip;&lt;/li&gt;
+&lt;li&gt;NCKU CS freshman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Language
+&lt;ul&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;HTML5+CSS3+Javascript&lt;/li&gt;
+&lt;li&gt;Node.js（runtime）&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Shell Scripts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tools
+&lt;ul&gt;
+&lt;li&gt;Window/Linux&lt;/li&gt;
+&lt;li&gt;Proxmox VE&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;competition&#34;&gt;Competition&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Project&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 全國高中高瞻計畫 - Gold Medal Award&lt;/li&gt;
+&lt;li&gt;2020 中等學校學生科學研究獎助實施計畫 - excellent work&lt;/li&gt;
+&lt;li&gt;2020 Tsukuba Science Edge - Review Committee Comments report&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Competitive Programming&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 NPSC National Problem Solving Contest - 優勝(Team)&lt;/li&gt;
+&lt;li&gt;2020 School Competitive Programming Contest - Rank 1&lt;/li&gt;
+&lt;li&gt;2020 Taipei Competitive Programming Contest - excellent work&lt;/li&gt;
+&lt;li&gt;2020 Toi Novice Club - Rank 6&lt;/li&gt;
+&lt;li&gt;2021 3/23 CPE Collegiate Programming Examination - Rank 27/2394 Solve 5/7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Capture The Flag(Security Contests)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 T-cat High School Group Premium (solo)&lt;/li&gt;
+&lt;li&gt;2021 AIS3 Pre-exam - Rank.58&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Math Competition&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 Australia AMC High School Group - Distinction Certificate&lt;/li&gt;
+&lt;li&gt;2021 America AMC 12A - Excellent 102Pt&lt;/li&gt;
+&lt;li&gt;2021 AIME participant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2020/7/20~2020/8/28 iKala Crawler Intern
+&lt;ul&gt;
+&lt;li&gt;date analyzing&lt;/li&gt;
+&lt;li&gt;Automatically generate crawlers - reduce the original 20 minutes to make crawlers to 20 seconds to generate&lt;/li&gt;
+&lt;li&gt;API semi-automatic lookup tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;lecture-experience&#34;&gt;Lecture Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;National Chung Cheng University COMPUTER SYSTEM AND NETWORK ADMINISTRATION@NCKU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 Special selection experience sharing@YCSH&lt;/li&gt;
+&lt;li&gt;2021 SITCON Hour Of Code Tainan Founder and Speaker@NCKU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 APCS Camp Founder and Speaker@YCSH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conference-participation&#34;&gt;Conference Participation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2022-1&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 SITCON staff@Academia Sinica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2021-1&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 SITCON Summer Camp vice counselor@Online&lt;/li&gt;
+&lt;li&gt;2021 SITCON Hour Of Code Tainan Founder and Speaker@NCKU&lt;/li&gt;
+&lt;li&gt;2021 SITCON@Online&lt;/li&gt;
+&lt;li&gt;2021 HITCON@Academia Sinica&lt;/li&gt;
+&lt;li&gt;2021 CYBERSEC@Taipei Nangang Exhibition Center, Hall 2&lt;/li&gt;
+&lt;li&gt;2021 coding-X Competitive camp teaching assistant@NCKU&lt;/li&gt;
+&lt;li&gt;2021 Special selection experience sharing@YCSH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2020-1&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 3R/V Science and Technology Research Institute President and Dean of Teaching@YCSH&lt;/li&gt;
+&lt;li&gt;2020 APCS Camp Founder and Speaker@YCSH&lt;/li&gt;
+&lt;li&gt;2020 SITCON@Academia Sinica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 SITCON Camp@NTOU&lt;/li&gt;
+&lt;li&gt;2019 MOPCON@ICCK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;other-activity-and-classes&#34;&gt;Other Activity and Classes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2022-2&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 NCKU Computer System and Network Administration - TA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2021-2&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 AIS3 Summer Camp&lt;/li&gt;
+&lt;li&gt;2021 IOICAMP&lt;/li&gt;
+&lt;li&gt;2021 iThome &lt;a href=&#34;https://ithelp.ithome.com.tw/users/20134430/ironman/4307&#34;&gt;ref&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2020-2&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 Sprout Algorithm&lt;/li&gt;
+&lt;li&gt;2020 IOICAMP&lt;/li&gt;
+&lt;li&gt;2020 交大人才培育計畫_Artificial intelligence and deep learning&lt;/li&gt;
+&lt;li&gt;2020 台大簡報課&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2019-1&#34;&gt;2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 IONCamp&lt;/li&gt;
+&lt;li&gt;2019 MyFirstSecurity Summer Camp&lt;/li&gt;
+&lt;li&gt;2019 錄製國立教育廣播電臺AR/VR相關內容 &lt;a href=&#34;https://www.ner.gov.tw/program/5a83f4ebc5fd8a01e2df020c/5e0d82131c66c500063e98e0&#34;&gt;來去VR體驗車&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2019 Hosting the opening ceremony of the Smart Orange Shop&lt;/li&gt;
+&lt;li&gt;2019 SITCON Camp&lt;/li&gt;
+&lt;li&gt;2019 MOPCON&lt;/li&gt;
+&lt;li&gt;2019 press conference &lt;a href=&#34;https://www.mdnkids.com/search_content.asp?Serial_NO=%20111631&#34;&gt;國語日報:培育AI教師認證 北市與臺大簽署備忘錄&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;2018&#34;&gt;2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2018 Piano activity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Contacts</title>
       <link>/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contacts/</guid>
-      <description> Name: 楊竣鴻 ID: Vincent55 E-Mail: 5020559@gmail.com GitHub: Vincent550102 Instagram: @vincent55010266 Telegram: @Vincent550102 Facebook: 楊竣鴻 (Vincent Yang)  </description>
+      <description> Name: 楊竣鴻 ID: Vincent55 E-Mail: 5020559@gmail.com、admin@vincent55.tw GitHub: Vincent550102 Linkedin : chunhung-yang Instagram: @vincent55010266 Telegram: @Vincent550102 Facebook: 楊竣鴻 (Vincent Yang)  </description>
       <content>&lt;ul&gt;
 &lt;li&gt;Name: 楊竣鴻&lt;/li&gt;
 &lt;li&gt;ID: Vincent55&lt;/li&gt;
-&lt;li&gt;E-Mail: &lt;a href=&#34;mailto:5020559@gmail.com&#34;&gt;5020559@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-Mail: &lt;a href=&#34;mailto:5020559@gmail.com&#34;&gt;5020559@gmail.com&lt;/a&gt;、admin@vincent55.tw&lt;/li&gt;
 &lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/Vincent550102&#34;&gt;Vincent550102&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin : &lt;a href=&#34;https://www.linkedin.com/in/chunhung-yang-8291a51b4/&#34;&gt;chunhung-yang&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/vincent55010266/&#34;&gt;@vincent55010266&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Telegram: &lt;a href=&#34;https://t.me/Vincent550102&#34;&gt;@Vincent550102&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/profile.php?id=100006484806838&#34;&gt;楊竣鴻 (Vincent Yang)&lt;/a&gt;&lt;/li&gt;
