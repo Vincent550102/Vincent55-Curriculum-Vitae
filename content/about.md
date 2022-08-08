@@ -1,9 +1,3 @@
-+++
-title = "About"
-author = "Vincent55"
-type = "content"
-+++
-
 ### <**Chinese**/[English](/about-en/)>
 
 ## 我是誰
@@ -110,6 +104,7 @@ type = "content"
 
 - ### 2022
   - 2022 國立成功大學計算機系統與網路管理(NA/SA)課程助教
+  - 2022 AIS3 Summer Camp
 - ### 2021
   - 2021 AIS3 Summer Camp
   - 2021 IOICAMP 台大程式解題競賽集訓營

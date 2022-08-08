@@ -113,6 +113,7 @@ type = "content"
 
 - ### 2022
   - 2022 NCKU Computer System and Network Administration - TA
+  - 2022 AIS3 Summer Camp
 - ### 2021
   - 2021 AIS3 Summer Camp
   - 2021 IOICAMP
