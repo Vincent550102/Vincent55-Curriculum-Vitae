@@ -1,2 +1,3 @@
 docs
 updHomepage.sh
+.hugo_build.lock
