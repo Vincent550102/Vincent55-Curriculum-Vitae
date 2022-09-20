@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&amp;lt;Chinese/English&amp;gt; 我是誰  對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; &amp;hellip; 成大資工系 freshman   技能樹  程式語言 Programming Language  C/C++ Python HTML5+CSS3+JavaScript Node.js（runtime） PHP Shell Scripts   工具 Tools  Window/Linux Proxmox VE Docker Git Vim     競賽成績   專案
+      <description>&amp;lt;Chinese/English&amp;gt; 我是誰  對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; &amp;hellip; 成大資工系 freshman   技能樹  程式語言 Programming Language  C/C++ Python HTML5+CSS3+JavaScript Node.js（runtime） Shell Scripts   工具 Tools  Window/Linux Proxmox VE Docker Git Vim     競賽成績   專案
  2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee 出具 Comments report 2019 全國高中高瞻計畫 - 金牌獎    算法競賽</description>
       <content>&lt;h3 id=&#34;chineseenglishabout-en&#34;&gt;&amp;lt;&lt;strong&gt;Chinese&lt;/strong&gt;/&lt;a href=&#34;/about-en/&#34;&gt;English&lt;/a&gt;&amp;gt;&lt;/h3&gt;
 &lt;h2 id=&#34;我是誰&#34;&gt;我是誰&lt;/h2&gt;
@@ -30,7 +30,6 @@
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;HTML5+CSS3+JavaScript&lt;/li&gt;
 &lt;li&gt;Node.js（runtime）&lt;/li&gt;
-&lt;li&gt;PHP&lt;/li&gt;
 &lt;li&gt;Shell Scripts&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -208,7 +207,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about-en/</guid>
-      <description>&amp;lt;Chinese/English&amp;gt;  Whoami  Curious about the principles of various fields of information, and will not let the future illusion, continue to explore. develop -&amp;gt; Competitive Programming -&amp;gt; WebCrawler -&amp;gt; CTF -&amp;gt; Computer Network -&amp;gt; &amp;hellip; NCKU CS freshman   Skills  Programming Language  C/C++ Python HTML5+CSS3+Javascript Node.js（runtime） PHP Shell Scripts   Tools  Window/Linux Proxmox VE Docker Git Vim     Competition   Project</description>
+      <description>&amp;lt;Chinese/English&amp;gt;  Whoami  Curious about the principles of various fields of information, and will not let the future illusion, continue to explore. develop -&amp;gt; Competitive Programming -&amp;gt; WebCrawler -&amp;gt; CTF -&amp;gt; Computer Network -&amp;gt; &amp;hellip; NCKU CS freshman   Skills  Programming Language  C/C++ Python HTML5+CSS3+Javascript Node.js（runtime） Shell Scripts   Tools  Window/Linux Proxmox VE Docker Git Vim     Competition   Project</description>
       <content>&lt;h3 id=&#34;chineseaboutenglish&#34;&gt;&amp;lt;&lt;a href=&#34;/about/&#34;&gt;Chinese&lt;/a&gt;/English&amp;gt;&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;whoami&#34;&gt;Whoami&lt;/h2&gt;
@@ -226,7 +225,6 @@
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;HTML5+CSS3+Javascript&lt;/li&gt;
 &lt;li&gt;Node.js（runtime）&lt;/li&gt;
-&lt;li&gt;PHP&lt;/li&gt;
 &lt;li&gt;Shell Scripts&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
