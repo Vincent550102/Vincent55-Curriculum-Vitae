@@ -15,7 +15,6 @@
   - Python
   - HTML5+CSS3+JavaScript
   - Node.js（runtime）
-  - PHP
   - Shell Scripts
 - 工具 Tools
   - Window/Linux

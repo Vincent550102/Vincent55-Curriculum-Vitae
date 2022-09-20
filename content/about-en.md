@@ -23,7 +23,6 @@ type = "content"
   - Python
   - HTML5+CSS3+Javascript
   - Node.js（runtime）
-  - PHP
   - Shell Scripts
 - Tools
   - Window/Linux
