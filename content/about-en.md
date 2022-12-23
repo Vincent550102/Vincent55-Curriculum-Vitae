@@ -48,8 +48,8 @@ type = "content"
 
 - Capture The Flag(Security Contests)
 
-  - 2022 HITCON CTF - rk.2(Tawian Scoreboard) / rk.37(Gloable Scoreboard)
-  - 2022 T-cat university Group Premium (solo)
+  - 2022 HITCON CTF - rk.2(Taiwan Scoreboard) / rk.37(Global Scoreboard)
+  - 2022 T-cat University Group Premium (solo)
   - 2022 AIS3 Pre-exam - Rank.14
   - 2021 T-cat High School Group Premium (solo)
   - 2021 AIS3 Pre-exam - Rank.58
