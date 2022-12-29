@@ -52,3 +52,6 @@ languages:
         - identifier: Contacts
           name: Contacts
           url: /contacts
+        - identifier: CV
+          name: CV
+          url: /cv.pdf
