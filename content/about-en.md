@@ -12,7 +12,7 @@ type = "content"
 
 - Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.
 - develop -> Competitive Programming -> WebCrawler -> CTF -> Computer Network -> piecework -> ...
-- NCKU CS freshman
+- NCKU CS
 - Freelancer
 
 ---
