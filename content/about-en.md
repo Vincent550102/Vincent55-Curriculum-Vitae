@@ -51,7 +51,7 @@ type = "content"
 - 2023 CDDC CTF@t5sp3 - rk.3(preliminaries) / rk.6(finals)
 - 2023 AIS3 Pre-exam - Rank.8
 - 2023 47th International Skills Competition National Competition (Internet Security) second stage - Participation
-- 2023 53th National Skill Competition (Network Security) - rk.5
+- 2023 53th National Skill Competition (Network Security) - rk.4
 - 2023 The 53rd National Skills Competition Central Region - rk.4
 - 2023 AIS3 EOF
 - 2022 HITCON CTF@ncku - rk.2(Taiwan Scoreboard) / rk.37(Global Scoreboard)
