@@ -126,6 +126,7 @@
 
 #### 2023
 
+- SITCON 開發組組員@中央研究院
 - SITCON Summer Camp 課活組組員@交通大學
 - HITCON 系統開發組組員@中央研究院
 

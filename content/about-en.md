@@ -134,6 +134,7 @@ type = "content"
 
 #### 2023
 
+- SITCON Website Development Member@Academia Sinica
 - SITCON Summer Camp Activity member@NYCU
 - HITCON System Development Member@Academia Sinica
 
