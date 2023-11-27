@@ -48,6 +48,10 @@ type = "content"
 
 #### Capture The Flag(Security Contests)
 
+- 2023 Balsn CTF@B33F 50μP- rk.2(Taiwan Scoreboard) / rk.21(Global Scoreboard)
+- 2023 National Center for Cyber security technology (NCCST) Cyber Security Competition - College Group rk.6
+- 2023 Aegis Ctf@B33F 50μP - Participation Final
+- 2022 T-cat University Group rk.2
 - 2023 CDDC CTF@t5sp3 - rk.3(preliminaries) / rk.6(finals)
 - 2023 AIS3 Pre-exam - Rank.8
 - 2023 47th International Skills Competition National Competition (Internet Security) second stage - Participation
@@ -71,16 +75,27 @@ type = "content"
 
 ## Work Experience
 
-- 2020/7/20~2020/8/28 iKala Crawler Intern
-  - date analyzing
-  - Automatically generate crawlers - reduce the original 20 minutes to make crawlers to 20 seconds to generate
-  - API semi-automatic lookup tools
-- 2021/5/3~ Freelancer
+- 2021/5/3 ~ Current Freelancer
 
   - [PAIA](https://www.paia-arena.com/) backend
   - backend、crawler、chatbot(Telegram、Line)、business tools(report generate、Excel processer、mailmerge tools
     ...)、game、data analyze
   - 20+ case finish
+
+- 2023/9/4 ~ Current | DEVCORE Web Security Intern
+
+  - ...
+
+- 2023/8/1 ~ 2023/9/30 | Jubo Backend Intern
+
+  - [Jubo NIS](https://smc.jubo.health/login)
+  - Negotiated and integrated APIs with third-party companies into the corporate system.
+  - Use [Federation](https://webpack.js.org/concepts/module-federation/) to accommodate different React versions within the same frontend environment.
+
+- 2020/7/20 ~ 2020/8/28 iKala Crawler Intern
+  - date analyzing
+  - Automatically generate crawlers - reduce the original 20 minutes to make crawlers to 20 seconds to generate
+  - API semi-automatic lookup tools
 
 ---
 
@@ -88,7 +103,13 @@ type = "content"
 
 #### 2023
 
+- Web security@NCKUCTF
+  - [slide](https://docs.google.com/presentation/d/166JfhVLOHxDrawfmEsgB8uBbMbFewqpU-Yr6GMoLHOI/edit?usp=sharing)
+  - [lab](https://class.nckuctf.org/challenges)
+  - [video1](https://youtu.be/N60VGmhfhy0?feature=shared)
+  - [video2](TDA)
 - SITCON Camp Package and Crawler Speaker - [slide](https://hackmd.io/@Vincent550102/BJhTDxIr3)
+- NCKU CSIE Camp Crawler Speaker - [slide](https://hackmd.io/@Vincent550102/HJTdOItun)
 
 #### 2022
 

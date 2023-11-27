@@ -2,8 +2,6 @@
 
 ## 我是誰
 
-test
-
 - 對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。
 - 開發 -> 競程 -> 爬蟲 -> CTF -> 網路 -> 接案 -> ...
 - 成大資工系
@@ -42,6 +40,10 @@ test
 
 #### 搶旗攻防賽
 
+- 2023 Balsn CTF@B33F 50μP - rk.2(台灣區排名) / rk.21(全球排名)
+- 2023 行政院國家資通安全會報技術服務中心 111 年資安技能金盾獎 - 大專院校組 rk.6
+- 2023 Aegis Ctf 神盾盃資安競賽@B33F 50μP - 參與決賽
+- 2023 T 貓盃全國資安基礎實務能力競賽大學組 - rk.2
 - 2023 CDDC CTF@t5sp3 - rk.3(初賽) / rk.6(決賽)
 - 2023 AIS3 Pre-exam - rk.8
 - 2023 第 47 屆國際技能競賽國手選拔賽（網路安全）第二階段 - 參與
@@ -63,19 +65,30 @@ test
 
 ---
 
-## 實習經驗
+## 工作經驗
 
-- 2020/7/20~2020/8/28 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern
+- 2021/5/3 ~ Current | 自由工作者 Freelancer
 
-  - 資料分析
-  - 自動化生成爬蟲 — 將原本 20 分鐘製作爬蟲速度縮短至 20 秒便可產生
-  - API 半自動查找工具撰寫
-
-- 2021/5/3~ 自由工作者 Freelancer
   - [PAIA](https://www.paia-arena.com/) 後端
   - 後端、網路爬蟲、聊天機器人(Telegram、Line)、工務工具(報表生成、報表處理、信件合併自動發送
     ...)、遊戲、資料分析
   - 20+ 案件完結
+
+- 2023/9/4 ~ Current | DEVCORE 戴夫寇爾 網頁組實習生 Web Security Intern
+
+  - ...
+
+- 2023/8/1 ~ 2023/9/30 | 智齡科技後端開發實習生 Jubo Backend Intern
+
+  - [Jubo NIS](https://smc.jubo.health/login)
+  - 與第三方公司談洽並介接 API 至公司系統
+  - 運用 [Federation](https://webpack.js.org/concepts/module-federation/) 達成不同 React 版本在同個前端
+
+- 2020/7/20 ~ 2020/8/28 | 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern
+
+  - 資料分析
+  - 自動化生成爬蟲 — 將原本 20 分鐘製作爬蟲速度縮短至 20 秒便可產生
+  - API 半自動查找工具撰寫
 
 ---
 
@@ -83,6 +96,11 @@ test
 
 #### 2023
 
+- 網頁安全@成大資安社
+  - [slide](https://docs.google.com/presentation/d/166JfhVLOHxDrawfmEsgB8uBbMbFewqpU-Yr6GMoLHOI/edit?usp=sharing)
+  - [lab](https://class.nckuctf.org/challenges)
+  - [video1](https://youtu.be/N60VGmhfhy0?feature=shared)
+  - [video2](TDA)
 - SITCON Camp Package 與網路爬蟲講者 - [slide](https://hackmd.io/@Vincent550102/BJhTDxIr3)
 - 成大資訊營 請資援收營 網路爬蟲講師 - [slide](https://hackmd.io/@Vincent550102/HJTdOItun)
 
