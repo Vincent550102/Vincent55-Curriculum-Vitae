@@ -16,10 +16,14 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.68.3'
+          hugo-version: "0.68.3"
 
       - name: Build
         run: hugo --minify
+
+      - name: Overwrite index.html
+        run: |
+          mv ./docs/contact/index.html ./docs/index.html
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -27,5 +31,5 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: Vincent550102/Vincent55-Curriculum-Vitae
           publish_dir: ./docs
-          publish_branch: gh-page 
-          cname: vincent55.tw 
+          publish_branch: gh-page
+          cname: vincent55.tw
