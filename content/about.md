@@ -23,6 +23,33 @@
 
 ---
 
+## 工作經驗
+
+#### 2021/5/3 ~ Current | 自由工作者 Freelancer
+
+- [PAIA](https://www.paia-arena.com/) 後端
+- 後端、網路爬蟲、聊天機器人(Telegram、Line)、工務工具(報表生成、報表處理、信件合併自動發送
+  ...)、遊戲、資料分析
+- 20+ 案件完結
+
+#### 2023/9/4 ~ Current | DEVCORE 戴夫寇爾 網頁組實習生 Web Security Intern
+
+- ...
+
+#### 2023/8/1 ~ 2023/9/30 | 智齡科技後端開發實習生 Jubo Backend Intern
+
+- [Jubo NIS](https://smc.jubo.health/login)
+- 與第三方公司談洽並介接 API 至公司系統
+- 運用 [Federation](https://webpack.js.org/concepts/module-federation/) 達成不同 React 版本在同個前端
+
+#### 2020/7/20 ~ 2020/8/28 | 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern
+
+- 資料分析
+- 自動化生成爬蟲 — 將原本 20 分鐘製作爬蟲速度縮短至 20 秒便可產生
+- API 半自動查找工具撰寫
+
+---
+
 ## 競賽成績
 
 #### 專案競賽
@@ -62,33 +89,6 @@
 - 2021 美國 AMC 12A - 非常優良獎 Excellent 102Pt
 - 2021 AIME participant
 - 2020 全國澳洲 AMC 中學高級組 - 優等獎 Distinction Certificate
-
----
-
-## 工作經驗
-
-- 2021/5/3 ~ Current | 自由工作者 Freelancer
-
-  - [PAIA](https://www.paia-arena.com/) 後端
-  - 後端、網路爬蟲、聊天機器人(Telegram、Line)、工務工具(報表生成、報表處理、信件合併自動發送
-    ...)、遊戲、資料分析
-  - 20+ 案件完結
-
-- 2023/9/4 ~ Current | DEVCORE 戴夫寇爾 網頁組實習生 Web Security Intern
-
-  - ...
-
-- 2023/8/1 ~ 2023/9/30 | 智齡科技後端開發實習生 Jubo Backend Intern
-
-  - [Jubo NIS](https://smc.jubo.health/login)
-  - 與第三方公司談洽並介接 API 至公司系統
-  - 運用 [Federation](https://webpack.js.org/concepts/module-federation/) 達成不同 React 版本在同個前端
-
-- 2020/7/20 ~ 2020/8/28 | 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern
-
-  - 資料分析
-  - 自動化生成爬蟲 — 將原本 20 分鐘製作爬蟲速度縮短至 20 秒便可產生
-  - API 半自動查找工具撰寫
 
 ---
 

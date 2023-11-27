@@ -31,6 +31,33 @@ type = "content"
 
 ---
 
+## Work Experience
+
+#### 2021/5/3 ~ Current Freelancer
+
+- [PAIA](https://www.paia-arena.com/) backend
+- backend、crawler、chatbot(Telegram、Line)、business tools(report generate、Excel processer、mailmerge tools
+  ...)、game、data analyze
+- 20+ case finish
+
+#### 2023/9/4 ~ Current | DEVCORE Web Security Intern
+
+- ...
+
+#### 2023/8/1 ~ 2023/9/30 | Jubo Backend Intern
+
+- [Jubo NIS](https://smc.jubo.health/login)
+- Negotiated and integrated APIs with third-party companies into the corporate system.
+- Use [Federation](https://webpack.js.org/concepts/module-federation/) to accommodate different React versions within the same frontend environment.
+
+#### 2020/7/20 ~ 2020/8/28 iKala Crawler Intern
+
+- date analyzing
+- Automatically generate crawlers - reduce the original 20 minutes to make crawlers to 20 seconds to generate
+- API semi-automatic lookup tools
+
+---
+
 ## Competition
 
 #### Project Competition
@@ -70,32 +97,6 @@ type = "content"
 - 2021 America AMC 12A - Excellent 102Pt
 - 2021 AIME participant
 - 2020 Australia AMC High School Group - Distinction Certificate
-
----
-
-## Work Experience
-
-- 2021/5/3 ~ Current Freelancer
-
-  - [PAIA](https://www.paia-arena.com/) backend
-  - backend、crawler、chatbot(Telegram、Line)、business tools(report generate、Excel processer、mailmerge tools
-    ...)、game、data analyze
-  - 20+ case finish
-
-- 2023/9/4 ~ Current | DEVCORE Web Security Intern
-
-  - ...
-
-- 2023/8/1 ~ 2023/9/30 | Jubo Backend Intern
-
-  - [Jubo NIS](https://smc.jubo.health/login)
-  - Negotiated and integrated APIs with third-party companies into the corporate system.
-  - Use [Federation](https://webpack.js.org/concepts/module-federation/) to accommodate different React versions within the same frontend environment.
-
-- 2020/7/20 ~ 2020/8/28 iKala Crawler Intern
-  - date analyzing
-  - Automatically generate crawlers - reduce the original 20 minutes to make crawlers to 20 seconds to generate
-  - API semi-automatic lookup tools
 
 ---
 
