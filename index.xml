@@ -12,11 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&amp;lt;Chinese/English&amp;gt; 我是誰 test
- 對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; 接案 -&amp;gt; &amp;hellip; 成大資工系 自由工作者   技能樹  程式語言 Programming Language  C/C++ Python HTML5+CSS3+JavaScript Node.js（runtime）   工具 Tools  Window/Linux Docker Git     競賽成績 專案競賽  2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee 出具 Comments report 2019 全國高中高瞻計畫 - 金牌獎  算法競賽  2022 國際大學生程式設計競賽亞洲區桃園站 - 銅牌獎 2022 教育部全國大專電腦軟體設計競賽 - rk.</description>
+      <description>&amp;lt;Chinese/English&amp;gt; 我是誰  對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。 開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; 接案 -&amp;gt; &amp;hellip; 成大資工系 自由工作者   技能樹  程式語言 Programming Language  C/C++ Python HTML5+CSS3+JavaScript Node.js（runtime）   工具 Tools  Window/Linux Docker Git     競賽成績 專案競賽  2020 中等學校學生科學研究獎助實施計畫 - 決審階段佳作 2020 國際日本筑波大學 Tsukuba Science Edge - Review Committee 出具 Comments report 2019 全國高中高瞻計畫 - 金牌獎  算法競賽  2022 國際大學生程式設計競賽亞洲區桃園站 - 銅牌獎 2022 教育部全國大專電腦軟體設計競賽 - rk.</description>
       <content>&lt;h3 id=&#34;chineseenglishabout-en&#34;&gt;&amp;lt;&lt;strong&gt;Chinese&lt;/strong&gt;/&lt;a href=&#34;/about-en/&#34;&gt;English&lt;/a&gt;&amp;gt;&lt;/h3&gt;
 &lt;h2 id=&#34;我是誰&#34;&gt;我是誰&lt;/h2&gt;
-&lt;p&gt;test&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。&lt;/li&gt;
 &lt;li&gt;開發 -&amp;gt; 競程 -&amp;gt; 爬蟲 -&amp;gt; CTF -&amp;gt; 網路 -&amp;gt; 接案 -&amp;gt; &amp;hellip;&lt;/li&gt;
@@ -59,6 +57,10 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;搶旗攻防賽&#34;&gt;搶旗攻防賽&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;2023 Balsn CTF@B33F 50μP - rk.2(台灣區排名) / rk.21(全球排名)&lt;/li&gt;
+&lt;li&gt;2023 行政院國家資通安全會報技術服務中心 111 年資安技能金盾獎 - 大專院校組 rk.6&lt;/li&gt;
+&lt;li&gt;2023 Aegis Ctf 神盾盃資安競賽@B33F 50μP - 參與決賽&lt;/li&gt;
+&lt;li&gt;2023 T 貓盃全國資安基礎實務能力競賽大學組 - rk.2&lt;/li&gt;
 &lt;li&gt;2023 CDDC CTF@t5sp3 - rk.3(初賽) / rk.6(決賽)&lt;/li&gt;
 &lt;li&gt;2023 AIS3 Pre-exam - rk.8&lt;/li&gt;
 &lt;li&gt;2023 第 47 屆國際技能競賽國手選拔賽（網路安全）第二階段 - 參與&lt;/li&gt;
@@ -79,18 +81,10 @@
 &lt;li&gt;2020 全國澳洲 AMC 中學高級組 - 優等獎 Distinction Certificate&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;實習經驗&#34;&gt;實習經驗&lt;/h2&gt;
+&lt;h2 id=&#34;工作經驗&#34;&gt;工作經驗&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;2020/7/20~2020/8/28 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;資料分析&lt;/li&gt;
-&lt;li&gt;自動化生成爬蟲 — 將原本 20 分鐘製作爬蟲速度縮短至 20 秒便可產生&lt;/li&gt;
-&lt;li&gt;API 半自動查找工具撰寫&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2021/5/3~ 自由工作者 Freelancer&lt;/p&gt;
+&lt;p&gt;2021/5/3 ~ Current | 自由工作者 Freelancer&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.paia-arena.com/&#34;&gt;PAIA&lt;/a&gt; 後端&lt;/li&gt;
 &lt;li&gt;後端、網路爬蟲、聊天機器人(Telegram、Line)、工務工具(報表生成、報表處理、信件合併自動發送
@@ -98,11 +92,41 @@
 &lt;li&gt;20+ 案件完結&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023/9/4 ~ Current | DEVCORE 戴夫寇爾 網頁組實習生 Web Security Intern&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023/8/1 ~ 2023/9/30 | 智齡科技後端開發實習生 Jubo Backend Intern&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://smc.jubo.health/login&#34;&gt;Jubo NIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;與第三方公司談洽並介接 API 至公司系統&lt;/li&gt;
+&lt;li&gt;運用 &lt;a href=&#34;https://webpack.js.org/concepts/module-federation/&#34;&gt;Federation&lt;/a&gt; 達成不同 React 版本在同個前端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020/7/20 ~ 2020/8/28 | 愛卡拉網路爬蟲實習生 iKala WebCrawler Intern&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;資料分析&lt;/li&gt;
+&lt;li&gt;自動化生成爬蟲 — 將原本 20 分鐘製作爬蟲速度縮短至 20 秒便可產生&lt;/li&gt;
+&lt;li&gt;API 半自動查找工具撰寫&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;演講經歷&#34;&gt;演講經歷&lt;/h2&gt;
 &lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;網頁安全@成大資安社
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/166JfhVLOHxDrawfmEsgB8uBbMbFewqpU-Yr6GMoLHOI/edit?usp=sharing&#34;&gt;slide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://class.nckuctf.org/challenges&#34;&gt;lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/N60VGmhfhy0?feature=shared&#34;&gt;video1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;TDA&#34;&gt;video2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;SITCON Camp Package 與網路爬蟲講者 - &lt;a href=&#34;https://hackmd.io/@Vincent550102/BJhTDxIr3&#34;&gt;slide&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;成大資訊營 請資援收營 網路爬蟲講師 - &lt;a href=&#34;https://hackmd.io/@Vincent550102/HJTdOItun&#34;&gt;slide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -253,6 +277,10 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;capture-the-flagsecurity-contests&#34;&gt;Capture The Flag(Security Contests)&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;2023 Balsn CTF@B33F 50μP- rk.2(Taiwan Scoreboard) / rk.21(Global Scoreboard)&lt;/li&gt;
+&lt;li&gt;2023 National Center for Cyber security technology (NCCST) Cyber Security Competition - College Group rk.6&lt;/li&gt;
+&lt;li&gt;2023 Aegis Ctf@B33F 50μP - Participation Final&lt;/li&gt;
+&lt;li&gt;2022 T-cat University Group rk.2&lt;/li&gt;
 &lt;li&gt;2023 CDDC CTF@t5sp3 - rk.3(preliminaries) / rk.6(finals)&lt;/li&gt;
 &lt;li&gt;2023 AIS3 Pre-exam - Rank.8&lt;/li&gt;
 &lt;li&gt;2023 47th International Skills Competition National Competition (Internet Security) second stage - Participation&lt;/li&gt;
@@ -276,15 +304,7 @@
 &lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;2020/7/20~2020/8/28 iKala Crawler Intern&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;date analyzing&lt;/li&gt;
-&lt;li&gt;Automatically generate crawlers - reduce the original 20 minutes to make crawlers to 20 seconds to generate&lt;/li&gt;
-&lt;li&gt;API semi-automatic lookup tools&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2021/5/3~ Freelancer&lt;/p&gt;
+&lt;p&gt;2021/5/3 ~ Current Freelancer&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.paia-arena.com/&#34;&gt;PAIA&lt;/a&gt; backend&lt;/li&gt;
 &lt;li&gt;backend、crawler、chatbot(Telegram、Line)、business tools(report generate、Excel processer、mailmerge tools
@@ -292,12 +312,43 @@
 &lt;li&gt;20+ case finish&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023/9/4 ~ Current | DEVCORE Web Security Intern&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023/8/1 ~ 2023/9/30 | Jubo Backend Intern&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://smc.jubo.health/login&#34;&gt;Jubo NIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Negotiated and integrated APIs with third-party companies into the corporate system.&lt;/li&gt;
+&lt;li&gt;Use &lt;a href=&#34;https://webpack.js.org/concepts/module-federation/&#34;&gt;Federation&lt;/a&gt; to accommodate different React versions within the same frontend environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020/7/20 ~ 2020/8/28 iKala Crawler Intern&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;date analyzing&lt;/li&gt;
+&lt;li&gt;Automatically generate crawlers - reduce the original 20 minutes to make crawlers to 20 seconds to generate&lt;/li&gt;
+&lt;li&gt;API semi-automatic lookup tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;lecture-experience&#34;&gt;Lecture Experience&lt;/h2&gt;
 &lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;Web security@NCKUCTF
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/166JfhVLOHxDrawfmEsgB8uBbMbFewqpU-Yr6GMoLHOI/edit?usp=sharing&#34;&gt;slide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://class.nckuctf.org/challenges&#34;&gt;lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/N60VGmhfhy0?feature=shared&#34;&gt;video1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;TDA&#34;&gt;video2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;SITCON Camp Package and Crawler Speaker - &lt;a href=&#34;https://hackmd.io/@Vincent550102/BJhTDxIr3&#34;&gt;slide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NCKU CSIE Camp Crawler Speaker - &lt;a href=&#34;https://hackmd.io/@Vincent550102/HJTdOItun&#34;&gt;slide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;
 &lt;ul&gt;
