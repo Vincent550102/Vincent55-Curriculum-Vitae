@@ -6,6 +6,8 @@ type = "content"
 
 ### <[Chinese](/about/)/English>
 
+last updated: 2023/11/27
+
 ---
 
 ## Whoami
