@@ -48,7 +48,8 @@ last updated: 2023/3/21
 
 #### 2023/9/4 ~ Current | DEVCORE Web Security Intern
 
-- ...
+- Digging the 0-day vulnerabilities in IoT devices on the market. 
+- Analyze the framework's operational model and digging for 0-day vulnerabilities.
 
 #### 2023/8/1 ~ 2023/9/30 | Jubo Backend Intern
 

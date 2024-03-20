@@ -38,9 +38,10 @@
   ...)、遊戲、資料分析
 - 20+ 案件完結
 
-#### 2023/9/4 ~ Current | DEVCORE 戴夫寇爾 網頁組實習生 Web Security Intern
+#### 2023/9/4 ~ 2024/1/25 | DEVCORE 戴夫寇爾 網頁組實習生 Web Security Intern
 
-- ...
+- 挖掘物聯網設備中的漏洞。
+- 分析框架的運作模型並挖掘漏洞。
 
 #### 2023/8/1 ~ 2023/9/30 | 智齡科技後端開發實習生 Jubo Backend Intern
 
