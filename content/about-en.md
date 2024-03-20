@@ -6,7 +6,7 @@ type = "content"
 
 ### <[Chinese](/about/)/English>
 
-last updated: 2023/11/27
+last updated: 2023/3/21
 
 ---
 
@@ -34,6 +34,10 @@ last updated: 2023/11/27
 ---
 
 ## Work Experience
+
+#### 2024/2/26 ~ Current | TELECOM TECHNOLOGY CENTER Web Security Intern
+
+- ...
 
 #### 2021/5/3 ~ Current Freelancer
 
@@ -77,6 +81,7 @@ last updated: 2023/11/27
 
 #### Capture The Flag(Security Contests)
 
+- 2024 AIS3 EOF@不屬於 Kirito 的星爆氣流斬 - rk.4 & Master of pwn
 - 2023 Balsn CTF@B33F 50μP- rk.2(Taiwan Scoreboard) / rk.21(Global Scoreboard)
 - 2023 National Center for Cyber security technology (NCCST) Cyber Security Competition - College Group rk.6
 - 2023 Aegis Ctf@B33F 50μP - Participation Final
