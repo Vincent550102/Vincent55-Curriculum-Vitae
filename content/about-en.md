@@ -140,9 +140,12 @@ last updated: 2023/3/21
 
 ## Conference Participation
 
-#### 2023
+#### 2024
 
 - SITCON Website Development Member@Academia Sinica
+
+#### 2023
+
 - SITCON Summer Camp Activity member@NYCU
 - HITCON System Development Member@Academia Sinica
 
