@@ -6,7 +6,7 @@ type = "content"
 
 ### <[Chinese](/about/)/English>
 
-last updated: 2023/3/21
+last updated: 2023/4/5
 
 ---
 
@@ -82,11 +82,13 @@ last updated: 2023/3/21
 
 #### Capture The Flag(Security Contests)
 
+- 2024 picoCTF@BEEF SOUP - rk.29/6957
 - 2024 AIS3 EOF@不屬於 Kirito 的星爆氣流斬 - rk.4 & Master of pwn
-- 2023 Balsn CTF@B33F 50μP- rk.2(Taiwan Scoreboard) / rk.21(Global Scoreboard)
-- 2023 National Center for Cyber security technology (NCCST) Cyber Security Competition - College Group rk.6
+- 2023 Cyber Guardian Frand Challenge - final rk.5（情資分享獎）
 - 2023 Aegis Ctf@B33F 50μP - Participation Final
-- 2022 T-cat University Group rk.2
+- 2023 T-cat University Group rk.2
+- 2023 National Center for Cyber security technology (NCCST) Cyber Security Competition - College Group rk.6
+- 2023 Balsn CTF@B33F 50μP- rk.2(Taiwan Scoreboard) / rk.21(Global Scoreboard)
 - 2023 CDDC CTF@t5sp3 - rk.3(preliminaries) / rk.6(finals)
 - 2023 AIS3 Pre-exam - Rank.8
 - 2023 47th International Skills Competition National Competition (Internet Security) second stage - Participation
