@@ -145,6 +145,7 @@ last updated: 2024/4/5
 #### 2024
 
 - SITCON Website Development Member@Academia Sinica
+- HITCON System Development Member@Academia Sinica
 
 #### 2023
 
