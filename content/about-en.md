@@ -35,7 +35,7 @@ last updated: 2024/9/15
 
 ## Work Experience
 
-#### 2024/9/2 ~ Current | DEVCORE Web Security Intern
+#### 2024/9/2 ~ Current | DEVCORE Red Team Intern
 
 - ...
 

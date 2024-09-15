@@ -27,7 +27,7 @@
 
 ## 工作經驗
 
-#### 2024/9/2 ~ Current | DEVCORE 戴夫寇爾 紅隊組實習生 RedTeam Intern
+#### 2024/9/2 ~ Current | DEVCORE 戴夫寇爾 紅隊組實習生 Red Team Intern
 
 - ...
 
