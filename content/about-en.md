@@ -6,7 +6,7 @@ type = "content"
 
 ### <[Chinese](/about/)/English>
 
-last updated: 2024/4/5
+last updated: 2024/9/15
 
 ---
 
@@ -35,7 +35,7 @@ last updated: 2024/4/5
 
 ## Work Experience
 
-#### 2024/2/26 ~ Current | TELECOM TECHNOLOGY CENTER Web Security Intern
+#### 2024/9/2 ~ Current | DEVCORE Web Security Intern
 
 - ...
 
@@ -46,7 +46,12 @@ last updated: 2024/4/5
   ...)、game、data analyze
 - 20+ case finish
 
-#### 2023/9/4 ~ Current | DEVCORE Web Security Intern
+#### 2024/2/26 ~ 2024/9/21 | TELECOM TECHNOLOGY CENTER Web Security Intern
+
+- Development of web packet analysis tool.
+- Digging vulnerabilities in IoT devices.
+
+#### 2023/9/4 ~ 2024/1/25 | DEVCORE Web Security Intern
 
 - Digging the 0-day vulnerabilities in IoT devices on the market. 
 - Analyze the framework's operational model and digging for 0-day vulnerabilities.
@@ -82,9 +87,17 @@ last updated: 2024/4/5
 
 #### Capture The Flag(Security Contests)
 
+- 2024 54th National Skill Competition (Network Security) - rk.3
+- 2024 HITCON CTF qual@星爆牛炒竹狐 - rk.1(Taiwan Scoreboard) / rk.24(Global Scoreboard)
+- 2024 The 54rd National Skills Competition South Region  - rk.1
+- 2024 SCIST CTF final - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/scist-2024-final)
+- 2024 bcactf@BEEF SOUP - rk.25
+- 2024 AIS3 Pre-exam - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/AIS3-preexam2024)
 - 2024 picoCTF@BEEF SOUP - rk.29/6957
 - 2024 AIS3 EOF@不屬於 Kirito 的星爆氣流斬 - rk.4 & Master of pwn
+- 2024 TSCCTF - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/TSCCTF-2024)
 - 2023 Cyber Guardian Frand Challenge - final rk.5（情資分享獎）
+- 2023 SCIST CTF final - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/scist-2023-final)
 - 2023 Aegis Ctf@B33F 50μP - Participation Final
 - 2023 T-cat University Group rk.2
 - 2023 National Center for Cyber security technology (NCCST) Cyber Security Competition - College Group rk.6
@@ -112,13 +125,28 @@ last updated: 2024/4/5
 
 ## Lecture Experience
 
+#### 2024
+  - [五檔的尼卡：無人能擋的帽子戲法](https://coscup.org/2024/en/session/787GHR)@b33f hacking/CTF種子工作坊
+AIS3/COSCUP/AIS3 Club
+  - [初探網頁安全：種子機關槍](https://www.instagram.com/p/C92ezRtyG_D/)@元智資管系資安Corner
+    - [slide](https://docs.google.com/presentation/d/1oND8ilIDhAopJJDXCXJ8jBNEND-rLzRnf7179E8DS0Q/edit?usp=sharing)
+  - Web security 3@NCKUCTF
+    - [slide](https://docs.google.com/presentation/d/166JfhVLOHxDrawfmEsgB8uBbMbFewqpU-Yr6GMoLHOI/edit?usp=sharing)
+    - [lab](https://class.nckuctf.org/challenges)
+    - [video1](https://www.youtube.com/watch?v=xjnAnrfApJo&t=1332s)
+  - Advance Web security@SCAICT
+    - [slide](https://docs.google.com/presentation/d/1VH1k4uhnUtcbHOO4MJgPgmWn5gyiWgwz5J67eAMF1qw/edit?usp=sharing)
+  - Web security free talk@金門大學資安社
+    - [slide](https://docs.google.com/presentation/d/1TI4it_mA-wPEVUKwokGQUU5M5Fpy2Pl-wGGm2thTMgo/edit?usp=sharing)
+
+
 #### 2023
 
 - Web security@NCKUCTF
   - [slide](https://docs.google.com/presentation/d/166JfhVLOHxDrawfmEsgB8uBbMbFewqpU-Yr6GMoLHOI/edit?usp=sharing)
   - [lab](https://class.nckuctf.org/challenges)
   - [video1](https://youtu.be/N60VGmhfhy0?feature=shared)
-  - [video2](TDA)
+  - [video2](https://www.youtube.com/watch?v=PqydmB-IoYc&t=4821s)
 - SITCON Camp Package and Crawler Speaker - [slide](https://hackmd.io/@Vincent550102/BJhTDxIr3)
 - NCKU CSIE Camp Crawler Speaker - [slide](https://hackmd.io/@Vincent550102/HJTdOItun)
 
@@ -145,12 +173,12 @@ last updated: 2024/4/5
 #### 2024
 
 - SITCON Website Development Member@Academia Sinica
-- HITCON System Development Member@Academia Sinica
+- HITCON CMT System Development Member@Academia Sinica
 
 #### 2023
 
 - SITCON Summer Camp Activity member@NYCU
-- HITCON System Development Member@Academia Sinica
+- HITCON CMT System Development Member@Academia Sinica
 
 #### 2022
 
@@ -185,14 +213,20 @@ last updated: 2024/4/5
 
 ## Other Activity and Classes
 
+#### 2024
+- AIS3 CTF - TA
+- AIS3 Club - TA
+- AIS3 Junior - TA
+- NCKU CSIE Program Design(2) - TA
+
 #### 2023
 
-- NCKU Computer System Administration - TA
+- NCKU CSIE Computer System Administration - TA
 
 #### 2022
 
-- NCKU Program Design(1) - TA
-- NCKU Computer System and Network Administration - TA
+- NCKU CSIE Program Design(1) - TA
+- NCKU CSIE Computer System and Network Administration - TA
 - AIS3 Summer Camp
 
 #### 2021
