@@ -72,19 +72,6 @@ last updated: 2024/9/15
 
 ## Competition
 
-#### Project Competition
-
-- 2020 中等學校學生科學研究獎助實施計畫 - excellent work
-- 2020 Tsukuba Science Edge - Review Committee Comments report
-- 2019 全國高中高瞻計畫 - Gold Medal Award
-
-#### Competitive Programming
-
-- 2022 International Collegiate Programming Contest - Brozen Award
-- 2022 National Collegiate Programming Contest - rk.4
-- 2020 Taipei Competitive Programming Contest - excellent work
-- 2019 NPSC National Problem Solving Contest - 優勝(Team)
-
 #### Capture The Flag(Security Contests)
 
 - 2024 54th National Skill Competition (Network Security) - rk.3
@@ -115,11 +102,24 @@ last updated: 2024/9/15
 - 2021 AIS3 Pre-exam - Rank.58
 - 2021 balsn CTF - rank 9
 
+#### Competitive Programming
+
+- 2022 International Collegiate Programming Contest - Brozen Award
+- 2022 National Collegiate Programming Contest - rk.4
+- 2020 Taipei Competitive Programming Contest - excellent work
+- 2019 NPSC National Problem Solving Contest - 優勝(Team)
+
 #### Math Competition
 
 - 2021 America AMC 12A - Excellent 102Pt
 - 2021 AIME participant
 - 2020 Australia AMC High School Group - Distinction Certificate
+
+#### Project Competition
+
+- 2020 中等學校學生科學研究獎助實施計畫 - excellent work
+- 2020 Tsukuba Science Edge - Review Committee Comments report
+- 2019 全國高中高瞻計畫 - Gold Medal Award
 
 ---
 
