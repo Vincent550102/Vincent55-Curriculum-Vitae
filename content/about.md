@@ -1,6 +1,6 @@
 ### <**Chinese**/[English](/about-en/)>
 
-上次更新: 2024/9/15
+上次更新: 2025/1/5
 
 ## 我是誰
 
@@ -66,8 +66,11 @@
 
 #### 搶旗攻防賽
 
+- 2024 資安技能金盾獎@好駭客與他們的B33F小夥伴 - rk.2
+- 2024 神盾盃資安競賽@B33F 50UP - rk.2
+- 2024 CGGC - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/cggc)
 - 2024 第 54 屆全國技能競賽（網路安全） - rk.3
-- 2024 HITCON CTF qual@星爆牛炒竹狐 - rk.1(台灣區排名) / rk.24(全球排名)
+- 2024 HITCON CTF final@星爆牛炒竹狐 - rk.1(台灣區排名) / rk.10(全球排名)
 - 2024 第 54 屆全國技能競賽（網路安全）南區 - rk.1
 - 2024 SCIST CTF final - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/scist-2024-final)
 - 2024 bcactf@BEEF SOUP - rk.25
@@ -118,6 +121,9 @@
 ## 演講經歷
 
 #### 2024
+  - web basic&advance@SCIST
+    - [base video](https://www.youtube.com/watch?v=y27EDCwHpAg)
+    - [advance video](https://www.youtube.com/watch?v=H8xTLb_66YQ)
   - [五檔的尼卡：無人能擋的帽子戲法](https://coscup.org/2024/en/session/787GHR)@b33f hacking/CTF種子工作坊
 AIS3/COSCUP/AIS3 Club
   - [初探網頁安全：種子機關槍](https://www.instagram.com/p/C92ezRtyG_D/)@元智資管系資安Corner

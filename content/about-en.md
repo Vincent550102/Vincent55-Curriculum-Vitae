@@ -6,7 +6,7 @@ type = "content"
 
 ### <[Chinese](/about/)/English>
 
-last updated: 2024/9/15
+last updated: 2025/1/5
 
 ---
 
@@ -74,8 +74,11 @@ last updated: 2024/9/15
 
 #### Capture The Flag(Security Contests)
 
+- 2024 National Center for Cyber security technology (NCCST) Cyber Security Competition@好駭客與他們的B33F小夥伴 - rk.2
+- 2024 Aegis Ctf@B33F 50UP - rk.2
+- 2024 CGGC - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/cggc)
 - 2024 54th National Skill Competition (Network Security) - rk.3
-- 2024 HITCON CTF qual@星爆牛炒竹狐 - rk.1(Taiwan Scoreboard) / rk.24(Global Scoreboard)
+- 2024 HITCON CTF final@星爆牛炒竹狐 - rk.1(Taiwan Scoreboard) / rk.10(Global Scoreboard)
 - 2024 The 54rd National Skills Competition South Region  - rk.1
 - 2024 SCIST CTF final - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/scist-2024-final)
 - 2024 bcactf@BEEF SOUP - rk.25
@@ -126,6 +129,9 @@ last updated: 2024/9/15
 ## Lecture Experience
 
 #### 2024
+  - web basic&advance@SCIST
+    - [base video](https://www.youtube.com/watch?v=y27EDCwHpAg)
+    - [advance video](https://www.youtube.com/watch?v=H8xTLb_66YQ)
   - [五檔的尼卡：無人能擋的帽子戲法](https://coscup.org/2024/en/session/787GHR)@b33f hacking/CTF種子工作坊
 AIS3/COSCUP/AIS3 Club
   - [初探網頁安全：種子機關槍](https://www.instagram.com/p/C92ezRtyG_D/)@元智資管系資安Corner
