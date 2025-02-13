@@ -6,38 +6,27 @@ type = "content"
 
 ### <[Chinese](/about/)/English>
 
-last updated: 2025/1/5
+last updated: 2025/2/13
 
 ---
 
 ## Whoami
 
 - Curious about the principles of various fields of information, and will not let the future illusion, continue to explore.
-- develop -> Competitive Programming -> WebCrawler -> CTF -> Computer Network -> piecework -> ...
+- develop -> Competitive Programming -> WebCrawler -> CTF -> Computer Network -> freelancer -> ...
+- B33F 50UP captain
 - NCKU CS
 - Freelancer
 
----
-
-## Skills
-
-- Programming Language
-  - C/C++
-  - Python
-  - HTML5+CSS3+Javascript
-  - Node.js（runtime）
-- Tools
-  - Window/Linux
-  - Docker
-  - Git
 
 ---
 
 ## Work Experience
 
-#### 2024/9/2 ~ Current | DEVCORE Red Team Intern
+#### 2025/3/3 ~ Current | DEVCORE Red Team Intern
 
 - ...
+
 
 #### 2021/5/3 ~ Current Freelancer
 
@@ -45,6 +34,12 @@ last updated: 2025/1/5
 - backend、crawler、chatbot(Telegram、Line)、business tools(report generate、Excel processer、mailmerge tools
   ...)、game、data analyze
 - 20+ case finish
+
+#### 2024/9/2 ~ 2025/1/31 | DEVCORE Red Team Intern
+
+- Red Team learning.
+- Windows AD learning and researching.
+
 
 #### 2024/2/26 ~ 2024/9/21 | TELECOM TECHNOLOGY CENTER Web Security Intern
 
@@ -74,6 +69,7 @@ last updated: 2025/1/5
 
 #### Capture The Flag(Security Contests)
 
+- 2025 AIS3 EOF@B33F 50UP - rk.1
 - 2024 National Center for Cyber security technology (NCCST) Cyber Security Competition@好駭客與他們的B33F小夥伴 - rk.2
 - 2024 Aegis Ctf@B33F 50UP - rk.2
 - 2024 CGGC - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/cggc)
@@ -220,6 +216,8 @@ AIS3/COSCUP/AIS3 Club
 ## Other Activity and Classes
 
 #### 2024
+
+- Advisor of the NCKU Nanke Information Security Research Club
 - AIS3 CTF - TA
 - AIS3 Club - TA
 - AIS3 Junior - TA

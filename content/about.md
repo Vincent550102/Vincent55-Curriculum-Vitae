@@ -1,33 +1,21 @@
 ### <**Chinese**/[English](/about-en/)>
 
-上次更新: 2025/1/5
+上次更新: 2025/2/13
 
 ## 我是誰
 
-- 對資訊各領域原理抱持好奇，且不讓明天後悔地，持續探索者。
+- 對資訊各領域原理好奇，且不讓明天後悔地，持續探索者。
 - 開發 -> 競程 -> 爬蟲 -> CTF -> 網路 -> 接案 -> ...
+- B33F 50UP 隊長
 - 成大資工系
 - 自由工作者
 
----
-
-## 技能樹
-
-- 程式語言 Programming Language
-  - C/C++
-  - Python
-  - HTML5+CSS3+JavaScript
-  - Node.js（runtime）
-- 工具 Tools
-  - Window/Linux
-  - Docker
-  - Git
 
 ---
 
 ## 工作經驗
 
-#### 2024/9/2 ~ Current | DEVCORE 戴夫寇爾 紅隊組實習生 Red Team Intern
+#### 2025/3/3 ~ Current | DEVCORE 戴夫寇爾 紅隊組實習生 Red Team Intern
 
 - ...
 
@@ -37,6 +25,11 @@
 - 後端、網路爬蟲、聊天機器人(Telegram、Line)、工務工具製作(報表生成、報表處理、信件合併自動發送
   ...)、遊戲、資料分析
 - 20+ 案件完結
+
+#### 2024/9/2 ~ 2025/1/31 | DEVCORE 戴夫寇爾 紅隊組實習生 Red Team Intern
+
+- 紅隊演練練習
+- Windows AD 攻擊面練習與研究
 
 #### 2024/2/26 ~ 2024/9/21 | 財團法人電信技術中心 資安實習生
 
@@ -66,6 +59,7 @@
 
 #### 搶旗攻防賽
 
+- 2025 AIS3 EOF@B33F 50UP - rk.1
 - 2024 資安技能金盾獎@好駭客與他們的B33F小夥伴 - rk.2
 - 2024 神盾盃資安競賽@B33F 50UP - rk.2
 - 2024 CGGC - [Construct challenge](https://github.com/Vincent550102/My-CTF-Challenge/tree/main/cggc)
@@ -212,6 +206,8 @@ AIS3/COSCUP/AIS3 Club
 
 
 #### 2024
+
+- 成大南工資訊安全研究社社團指導老師
 - AIS3 進階資安攻防助教與專題評審
 - AIS3 Club 助教
 - AIS3 Junior 隊輔兼助教
