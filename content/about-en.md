@@ -23,19 +23,14 @@ last updated: 2025/2/13
 
 ## Work Experience
 
-#### 2025/3/3 ~ Current | DEVCORE Red Team Intern
-
-- ...
-
-
-#### 2021/5/3 ~ Current Freelancer
+#### 2021/5/3 ~ Current | Freelancer
 
 - [PAIA](https://www.paia-arena.com/) backend
 - backend、crawler、chatbot(Telegram、Line)、business tools(report generate、Excel processer、mailmerge tools
   ...)、game、data analyze
 - 20+ case finish
 
-#### 2024/9/2 ~ 2025/1/31 | DEVCORE Red Team Intern
+#### 2024/9/2 ~ Current | DEVCORE Red Team Intern
 
 - Red Team learning.
 - Windows AD learning and researching.
