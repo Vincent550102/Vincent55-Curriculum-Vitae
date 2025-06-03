@@ -1,6 +1,5 @@
-### <**Chinese**/[English](/about-en/)>
 
-上次更新: 2025/2/13
+Last Update: 2025/2/13
 
 ## ${whoami}
 
@@ -16,7 +15,7 @@
 
 ## Work Experience
 
-### 2021/5/3 ~ Present | **Freelancer**
+#### 2021/5/3 ~ Present | **Freelancer**
 
 - **Backend development** for [**PAIA**](https://www.paia-arena.com/)  
 - Experience in **backend development**, **web scraping**, **chatbot integration** (Telegram, Line), and **productivity tools** (automated report generation, processing, email merging & delivery), **game development**, and **data analysis**  
@@ -24,28 +23,28 @@
 
 ---
 
-### 2024/9/2 ~ Present | **Red Team Intern, DEVCORE**
+#### 2024/9/2 ~ Present | **Red Team Intern, DEVCORE**
 
 - Practicing **red team operations**  
 - Research and testing of **Windows AD attack surfaces**
 
 ---
 
-### 2024/2/26 ~ 2024/9/21 | **Cybersecurity Intern, Telecom Technology Center**
+#### 2024/2/26 ~ 2024/9/21 | **Cybersecurity Intern, Telecom Technology Center**
 
 - Developed a **web traffic analysis tool**  
 - Discovered **vulnerabilities in IoT devices**
 
 ---
 
-### 2023/9/4 ~ 2024/1/25 | **Web Security Intern, DEVCORE**
+#### 2023/9/4 ~ 2024/1/25 | **Web Security Intern, DEVCORE**
 
 - Discovered **vulnerabilities in IoT devices**  
 - Analyzed **framework architectures** and identified **potential vulnerabilities**
 
 ---
 
-### 2023/8/1 ~ 2023/9/30 | **Backend Intern, Jubo (智齡科技)**
+#### 2023/8/1 ~ 2023/9/30 | **Backend Intern, Jubo (智齡科技)**
 
 - Worked on [**Jubo NIS**](https://smc.jubo.health/login) system  
 - **Integrated third-party APIs** through external collaboration  
@@ -100,7 +99,7 @@
 | Competition & Placement | Date |
 |-------------------------|------|
 | ICPC Asia Taoyuan Regional - Bronze Medal | 2022 |
-| 教育部全國大專電腦軟體設計競賽 - rk.4 | 2022 |
+| NCPC 教育部全國大專電腦軟體設計競賽 - rk.4 | 2022 |
 | 台北市資訊學科能力競賽 - 佳作 | 2020 |
 | NPSC 網際網路程式設計全國大賽 - 優勝 (Team) | 2019 |
 
