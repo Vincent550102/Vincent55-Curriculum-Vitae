@@ -23,28 +23,28 @@ Last Update: 2025/6/3
 
 ---
 
-#### 2024/9/2 ~ Present | **Red Team Intern, DEVCORE**
+#### 2024/9/2 ~ Present | Red Team Intern, [DEVCORE](https://devco.re/)
 
 - Practicing **red team operations**  
 - Research and testing of **Windows AD attack surfaces**
 
 ---
 
-#### 2024/2/26 ~ 2024/9/21 | **Cybersecurity Intern, Telecom Technology Center**
+#### 2024/2/26 ~ 2024/9/21 | Cybersecurity Intern, [Telecom Technology Center](https://www.ttc.org.tw/)
 
 - Developed a **web traffic analysis tool**  
 - Discovered **vulnerabilities in IoT devices**
 
 ---
 
-#### 2023/9/4 ~ 2024/1/25 | **Web Security Intern, DEVCORE**
+#### 2023/9/4 ~ 2024/1/25 | Web Security Intern, [DEVCORE](https://devco.re/)
 
 - Discovered **vulnerabilities in IoT devices**  
 - Analyzed **framework architectures** and identified **potential vulnerabilities**
 
 ---
 
-#### 2023/8/1 ~ 2023/9/30 | **Backend Intern, Jubo (智齡科技)**
+#### 2023/8/1 ~ 2023/9/30 | Backend Intern, [Jubo](https://jubo-health.com/)
 
 - Worked on [**Jubo NIS**](https://smc.jubo.health/login) system  
 - **Integrated third-party APIs** through external collaboration  
@@ -52,7 +52,7 @@ Last Update: 2025/6/3
 
 ---
 
-### 2020/7/20 ~ 2020/8/28 | **Web Crawler Intern, iKala**
+#### 2020/7/20 ~ 2020/8/28 | Web Crawler Intern, [iKala](https://ikala.ai/)
 
 - Conducted **data analysis**  
 - Developed **auto-generated crawlers** to reduce build time from **20 minutes to 20 seconds**  
