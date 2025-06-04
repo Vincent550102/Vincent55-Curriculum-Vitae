@@ -13,7 +13,7 @@
       
       <guid>/about/</guid>
       <description>Last Update: 2025/6/3
-${whoami}  A curious explorer across all fields of computer science, driven by a mindset of “no regrets.” My journey: Development → Competitive Programming → Web Scraping → CTF → Networking → Freelancing → RedTeam &amp;hellip; Team Leader of B33F 50UP CS student at National Cheng Kung University (NCKU) Freelancer   Work Experience 2021/5/3 ~ Present | Freelancer  Backend development for PAIA Experience in backend development, web scraping, chatbot integration (Telegram, Line), and productivity tools (automated report generation, processing, email merging &amp;amp; delivery), game development, and data analysis Completed over 20 freelance projects   2024/9/2 ~ Present | Red Team Intern, DEVCORE  Practicing red team operations Research and testing of Windows AD attack surfaces   2024/2/26 ~ 2024/9/21 | Cybersecurity Intern, Telecom Technology Center  Developed a web traffic analysis tool Discovered vulnerabilities in IoT devices   2023/9/4 ~ 2024/1/25 | Web Security Intern, DEVCORE  Discovered vulnerabilities in IoT devices Analyzed framework architectures and identified potential vulnerabilities   2023/8/1 ~ 2023/9/30 | Backend Intern, Jubo (智齡科技)  Worked on Jubo NIS system Integrated third-party APIs through external collaboration Applied Module Federation to support multiple React versions in a unified frontend   2020/7/20 ~ 2020/8/28 | Web Crawler Intern, iKala  Conducted data analysis Developed auto-generated crawlers to reduce build time from 20 minutes to 20 seconds Built a semi-automated API discovery tool   Competition CTFs    Competition &amp;amp; Placement Date     AIS3 EOF@B33F 50UP - rk.</description>
+${whoami}  A curious explorer across all fields of computer science, driven by a mindset of “no regrets.” My journey: Development → Competitive Programming → Web Scraping → CTF → Networking → Freelancing → RedTeam &amp;hellip; Team Leader of B33F 50UP CS student at National Cheng Kung University (NCKU) Freelancer   Work Experience 2021/5/3 ~ Present | Freelancer  Backend development for PAIA Experience in backend development, web scraping, chatbot integration (Telegram, Line), and productivity tools (automated report generation, processing, email merging &amp;amp; delivery), game development, and data analysis Completed over 20 freelance projects   2024/9/2 ~ Present | Red Team Intern, DEVCORE  Practicing red team operations Research and testing of Windows AD attack surfaces   2024/2/26 ~ 2024/9/21 | Cybersecurity Intern, Telecom Technology Center  Developed a web traffic analysis tool Discovered vulnerabilities in IoT devices   2023/9/4 ~ 2024/1/25 | Web Security Intern, DEVCORE  Discovered vulnerabilities in IoT devices Analyzed framework architectures and identified potential vulnerabilities   2023/8/1 ~ 2023/9/30 | Backend Intern, Jubo  Worked on Jubo NIS system Integrated third-party APIs through external collaboration Applied Module Federation to support multiple React versions in a unified frontend   2020/7/20 ~ 2020/8/28 | Web Crawler Intern, iKala  Conducted data analysis Developed auto-generated crawlers to reduce build time from 20 minutes to 20 seconds Built a semi-automated API discovery tool   Competition CTFs    Competition &amp;amp; Placement Date     AIS3 EOF@B33F 50UP - rk.</description>
       <content>&lt;p&gt;Last Update: 2025/6/3&lt;/p&gt;
 &lt;h2 id=&#34;whoami&#34;&gt;${whoami}&lt;/h2&gt;
 &lt;ul&gt;
@@ -32,32 +32,32 @@ ${whoami}  A curious explorer across all fields of computer science, driven by a
 &lt;li&gt;&lt;strong&gt;Completed over 20 freelance projects&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;202492--present--red-team-intern-devcore&#34;&gt;2024/9/2 ~ Present | &lt;strong&gt;Red Team Intern, DEVCORE&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;202492--present--red-team-intern-devcorehttpsdevcore&#34;&gt;2024/9/2 ~ Present | Red Team Intern, &lt;a href=&#34;https://devco.re/&#34;&gt;DEVCORE&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Practicing &lt;strong&gt;red team operations&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Research and testing of &lt;strong&gt;Windows AD attack surfaces&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;2024226--2024921--cybersecurity-intern-telecom-technology-center&#34;&gt;2024/2/26 ~ 2024/9/21 | &lt;strong&gt;Cybersecurity Intern, Telecom Technology Center&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;2024226--2024921--cybersecurity-intern-telecom-technology-centerhttpswwwttcorgtw&#34;&gt;2024/2/26 ~ 2024/9/21 | Cybersecurity Intern, &lt;a href=&#34;https://www.ttc.org.tw/&#34;&gt;Telecom Technology Center&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Developed a &lt;strong&gt;web traffic analysis tool&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Discovered &lt;strong&gt;vulnerabilities in IoT devices&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;202394--2024125--web-security-intern-devcore&#34;&gt;2023/9/4 ~ 2024/1/25 | &lt;strong&gt;Web Security Intern, DEVCORE&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;202394--2024125--web-security-intern-devcorehttpsdevcore&#34;&gt;2023/9/4 ~ 2024/1/25 | Web Security Intern, &lt;a href=&#34;https://devco.re/&#34;&gt;DEVCORE&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Discovered &lt;strong&gt;vulnerabilities in IoT devices&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Analyzed &lt;strong&gt;framework architectures&lt;/strong&gt; and identified &lt;strong&gt;potential vulnerabilities&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;202381--2023930--backend-intern-jubo-智齡科技&#34;&gt;2023/8/1 ~ 2023/9/30 | &lt;strong&gt;Backend Intern, Jubo (智齡科技)&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;202381--2023930--backend-intern-jubohttpsjubo-healthcom&#34;&gt;2023/8/1 ~ 2023/9/30 | Backend Intern, &lt;a href=&#34;https://jubo-health.com/&#34;&gt;Jubo&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Worked on &lt;a href=&#34;https://smc.jubo.health/login&#34;&gt;&lt;strong&gt;Jubo NIS&lt;/strong&gt;&lt;/a&gt; system&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Integrated third-party APIs&lt;/strong&gt; through external collaboration&lt;/li&gt;
 &lt;li&gt;Applied &lt;a href=&#34;https://webpack.js.org/concepts/module-federation/&#34;&gt;&lt;strong&gt;Module Federation&lt;/strong&gt;&lt;/a&gt; to support &lt;strong&gt;multiple React versions&lt;/strong&gt; in a unified frontend&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;2020720--2020828--web-crawler-intern-ikala&#34;&gt;2020/7/20 ~ 2020/8/28 | &lt;strong&gt;Web Crawler Intern, iKala&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;2020720--2020828--web-crawler-intern-ikalahttpsikalaai&#34;&gt;2020/7/20 ~ 2020/8/28 | Web Crawler Intern, &lt;a href=&#34;https://ikala.ai/&#34;&gt;iKala&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Conducted &lt;strong&gt;data analysis&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Developed &lt;strong&gt;auto-generated crawlers&lt;/strong&gt; to reduce build time from &lt;strong&gt;20 minutes to 20 seconds&lt;/strong&gt;&lt;/li&gt;
