@@ -67,32 +67,32 @@ Last Update: 2025/6/3
 
 | Competition & Placement | Date |
 |-------------------------|------|
-| AIS3 EOF@B33F 50UP - rk.1 | 2025 |
-| 資安技能金盾獎@好駭客與他們的B33F小夥伴 - rk.2 | 2024 |
-| 神盾盃資安競賽@B33F 50UP - rk.2 | 2024 |
-| 第 54 屆全國技能競賽（網路安全） - rk.3 | 2024 |
-| HITCON CTF final@星爆牛炒竹狐 - rk.1 (TW) / rk.10 (Global) | 2024 |
-| 第 54 屆全國技能競賽南區（網路安全） - rk.1 | 2024 |
-| bcactf@BEEF SOUP - rk.25 | 2024 |
-| picoCTF@BEEF SOUP - rk.29 / 6957 teams | 2024 |
-| AIS3 EOF@不屬於 Kirito 的星爆氣流斬 - rk.4 & Master of pwn | 2024 |
-| CGGC 網路守護者挑戰賽@B33F 50μP - Final rk.5（情資分享獎） | 2023 |
-| Aegis CTF 神盾盃@B33F 50μP - Final rk.9 | 2023 |
-| T 貓盃資安實務能力競賽（大學組） - rk.2 | 2023 |
-| 資安技能金盾獎（大專院校組） - rk.6 | 2023 |
-| Balsn CTF@B33F 50μP - rk.2 (TW) / rk.21 (Global) | 2023 |
-| CDDC CTF@t5sp3 - rk.3 (Qual) / rk.6 (Final) | 2023 |
-| AIS3 Pre-exam - rk.8 | 2023 |
-| 國際技能競賽國手選拔賽（網路安全）第二階段 - 參與 | 2023 |
-| 全國技能競賽+亞洲/國際選拔（網路安全） - rk.4 | 2023 |
-| 全國技能競賽中區（網路安全） - rk.4 | 2023 |
-| AIS3 EOF - Finalist | 2022 |
-| HITCON CTF@ncku - rk.2 (TW) / rk.37 (Global) | 2022 |
-| T 貓盃（大學組） - 特優 (solo) | 2022 |
-| AIS3 Pre-exam - rk.14 | 2022 |
-| T 貓盃（高中職組） - 特優 (solo) | 2021 |
-| AIS3 Pre-exam - rk.58 | 2021 |
-| balsn CTF - rk.9 | 2021 |
+| AIS3 EOF@B33F 50UP - rk.1 | Feb. 2025 |
+| 資安技能金盾獎@好駭客與他們的B33F小夥伴 - rk.2 | Nov. 2024 |
+| 神盾盃資安競賽@B33F 50UP - rk.2 | Nov. 2024 |
+| 第 54 屆全國技能競賽（網路安全） - rk.3 | Jul. 2024 |
+| HITCON CTF final@星爆牛炒竹狐 - rk.1 (TW) / rk.10 (Global) | Aug. 2024 |
+| bcactf@B33F 50UP - rk.25 | Jun. 2024 |
+| 第 54 屆全國技能競賽南區（網路安全） - rk.1 | Mar. 2024 |
+| picoCTF@B33F 50UP - rk.29 / 6957 teams | Mar. 2024 |
+| AIS3 EOF@不屬於 Kirito 的星爆氣流斬 - rk.4 & Master of pwn | Feb. 2024 |
+| CGGC 網路守護者挑戰賽@B33F 50μP - Final rk.5（情資分享獎） | Dec. 2023 |
+| Aegis CTF 神盾盃@B33F 50μP - Final rk.9 | Nov. 2023 |
+| T 貓盃資安實務能力競賽（大學組） - rk.2 | Nov. 2023 |
+| 資安技能金盾獎（大專院校組） - rk.6 | Nov. 2023 |
+| Balsn CTF@B33F 50μP - rk.2 (TW) / rk.21 (Global) | Oct. 2023 |
+| CDDC CTF@t5sp3 - rk.3 (Qual) / rk.6 (Final) | Jun. 2023 |
+| AIS3 Pre-exam - rk.8 | May. 2023 |
+| 全國技能競賽+亞洲/國際選拔（網路安全） - rk.4 | Jul. 2023 |
+| 全國技能競賽中區（網路安全） - rk.4 | Mar. 2023 |
+| AIS3 EOF - Finalist | Jan. 2022 |
+| HITCON CTF@ncku - rk.2 (TW) / rk.37 (Global) | Nov. 2022 |
+| T 貓盃（大學組） - 特優 (solo) | May. 2022 |
+| AIS3 Pre-exam - rk.14 | May. 2022 |
+| balsn CTF - rk.9 | Nov. 2021 |
+| T 貓盃（高中職組） - 特優 (solo) | May. 2021 |
+| AIS3 Pre-exam - rk.58 | May. 2021 |
+
 
 ### Competitive Programming
 
@@ -139,7 +139,7 @@ Last Update: 2025/6/3
 ## Presentation
 
 ### Speaker
-| Event | Time | Note |
+| Event | Date | Note |
 |------|------|------|
 | 玩大地遊戲@SITCON LightningTalk | Mar. 2025 | [record](https://www.youtube.com/watch?v=fCaPYAd6UgY&t=2545s) |
 | 不只 RDP！揭密 Windows 遠端控制術@SITCON | Mar. 2025 | [record](https://youtu.be/pV61dTwBaGw?si=_ofKcTqki5JZJUz1) |
@@ -151,7 +151,7 @@ Last Update: 2025/6/3
 
 
 
-| Event | Time | Note |
+| Event | Date | Note |
 |------|------|------|
 | Web-security 課程@國立台中教育大學白帽社 | May. 2025 | - |
 | Web-security 課程@國立臺北大學 | Mar. 2025 | - |
@@ -202,7 +202,7 @@ Last Update: 2025/6/3
 
 ### 課程助教相關
 
-| Event | Time | Position |
+| Event | Date | Position |
 |-------|------|-------|
 | 國立成功大學 網路安全實務與社會實踐 | 2024 | TA |
 | SCIST | 2022/2023/2024 | TA |
@@ -219,7 +219,7 @@ Last Update: 2025/6/3
 
 ### 活動參與相關
 
-| Activity | Time | Note |
+| Activity | Date | Note |
 |----------|------|-------------|
 | AIS3 Summer Camp | 2022 | - |
 | AIS3 Summer Camp | 2021 | - |
