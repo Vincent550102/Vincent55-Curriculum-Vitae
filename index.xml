@@ -12,16 +12,36 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Last Update: 2025/6/3
-${whoami}  A curious explorer across all fields of computer science, driven by a mindset of “no regrets.” My journey: Development → Competitive Programming → Web Scraping → CTF → Networking → Freelancing → RedTeam &amp;hellip; Team Leader of B33F 50UP CS student at National Cheng Kung University (NCKU) Freelancer   Work Experience 2021/5/3 ~ Present | Freelancer  Backend development for PAIA Experience in backend development, web scraping, chatbot integration (Telegram, Line), and productivity tools (automated report generation, processing, email merging &amp;amp; delivery), game development, and data analysis Completed over 20 freelance projects   2024/9/2 ~ Present | Red Team Intern, DEVCORE  Practicing red team operations Research and testing of Windows AD attack surfaces   2024/2/26 ~ 2024/9/21 | Cybersecurity Intern, Telecom Technology Center  Developed a web traffic analysis tool Discovered vulnerabilities in IoT devices   2023/9/4 ~ 2024/1/25 | Web Security Intern, DEVCORE  Discovered vulnerabilities in IoT devices Analyzed framework architectures and identified potential vulnerabilities   2023/8/1 ~ 2023/9/30 | Backend Intern, Jubo  Worked on Jubo NIS system Integrated third-party APIs through external collaboration Applied Module Federation to support multiple React versions in a unified frontend   2020/7/20 ~ 2020/8/28 | Web Crawler Intern, iKala  Conducted data analysis Developed auto-generated crawlers to reduce build time from 20 minutes to 20 seconds Built a semi-automated API discovery tool   Competition CTFs    Competition &amp;amp; Placement Date     AIS3 EOF@B33F 50UP - rk.</description>
-      <content>&lt;p&gt;Last Update: 2025/6/3&lt;/p&gt;
+      <description>Last Update: 2026/1/16
+${whoami}  ship in port is safe, but that is not what ships are built for.
+  Team Leader of B33F 50UP CTF Teams Mastering at National Yang Ming Chiao Tung University(NYCU) Freelancer   Education   National Yang Ming Chiao Tung University (NYCU)
+Master&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)
+September 2025 – Present
+  National Cheng Kung University (NCKU)
+Bachelor&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)</description>
+      <content>&lt;p&gt;Last Update: 2026/1/16&lt;/p&gt;
 &lt;h2 id=&#34;whoami&#34;&gt;${whoami}&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ship in port is safe, but that is not what ships are built for.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;A curious explorer across all fields of computer science, driven by a mindset of “no regrets.”&lt;/li&gt;
-&lt;li&gt;My journey: &lt;strong&gt;Development → Competitive Programming → Web Scraping → CTF → Networking → Freelancing → RedTeam &amp;hellip;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Team Leader&lt;/strong&gt; of &lt;strong&gt;B33F 50UP&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CS student at National Cheng Kung University (NCKU)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Leader&lt;/strong&gt; of &lt;strong&gt;B33F 50UP&lt;/strong&gt; CTF Teams&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mastering at National Yang Ming Chiao Tung University(NYCU)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Freelancer&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;National Yang Ming Chiao Tung University (NYCU)&lt;/strong&gt;&lt;br&gt;
+Master&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)&lt;br&gt;
+September 2025 – Present&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;National Cheng Kung University (NCKU)&lt;/strong&gt;&lt;br&gt;
+Bachelor&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)&lt;br&gt;
+September 2021 – June 2025 (Graduated)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
@@ -74,6 +94,22 @@ ${whoami}  A curious explorer across all fields of computer science, driven by a
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;資安技能金盾獎@BambooB33F - rk.1&lt;/td&gt;
+&lt;td&gt;Jan. 2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CODE x ACE 2025 跨國網路攻防演練 - rk.1&lt;/td&gt;
+&lt;td&gt;Nov. 2025&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;神盾盃資安競賽@B33F 50UP - rk.1&lt;/td&gt;
+&lt;td&gt;Nov. 2025&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DEVCORE wargame@solo - rk.1&lt;/td&gt;
+&lt;td&gt;Aug. 2025&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;AIS3 EOF@B33F 50UP - rk.1&lt;/td&gt;
 &lt;td&gt;Feb. 2025&lt;/td&gt;
@@ -260,6 +296,10 @@ ${whoami}  A curious explorer across all fields of computer science, driven by a
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;AIS3 EOF qual&amp;amp;final&lt;/td&gt;
+&lt;td&gt;2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;AIS3 Pre-exam&lt;/td&gt;
 &lt;td&gt;2025&lt;/td&gt;
 &lt;/tr&gt;
@@ -272,7 +312,7 @@ ${whoami}  A curious explorer across all fields of computer science, driven by a
 &lt;td&gt;2024&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;CGGC&lt;/td&gt;
+&lt;td&gt;CGGC  qual&amp;amp;final&lt;/td&gt;
 &lt;td&gt;2024&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -338,6 +378,16 @@ ${whoami}  A curious explorer across all fields of computer science, driven by a
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Web-security-backend 課程@AIS3 Junior&lt;/td&gt;
+&lt;td&gt;Aug. 2025&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Web-security 課程@元智資管系資安Corner&lt;/td&gt;
+&lt;td&gt;Aug. 2025&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Web-security 課程@國立台中教育大學白帽社&lt;/td&gt;
 &lt;td&gt;May. 2025&lt;/td&gt;
@@ -516,6 +566,11 @@ ${whoami}  A curious explorer across all fields of computer science, driven by a
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;國立陽明交通大學 資訊系 程式安全&lt;/td&gt;
+&lt;td&gt;2025&lt;/td&gt;
+&lt;td&gt;TA&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;國立成功大學 網路安全實務與社會實踐&lt;/td&gt;
 &lt;td&gt;2024&lt;/td&gt;
