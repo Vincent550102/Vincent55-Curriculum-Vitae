@@ -3,13 +3,11 @@ Last Update: 2026/1/16
 
 ## ${whoami}
 
-> ship in port is safe, but that is not what ships are built for.
-
 - **Team Leader** of **B33F 50UP** CTF Teams
 - **Mastering at National Yang Ming Chiao Tung University(NYCU)**
 - **Freelancer**
 
----
+> ship in port is safe, but that is not what ships are built for.
 
 ### Education
 
