@@ -1,14 +1,25 @@
 
-Last Update: 2025/6/3
+Last Update: 2026/1/16
 
 ## ${whoami}
 
-- A curious explorer across all fields of computer science, driven by a mindset of “no regrets.”
-- My journey: **Development → Competitive Programming → Web Scraping → CTF → Networking → Freelancing → RedTeam ...**
-- **Team Leader** of **B33F 50UP**
-- **CS student at National Cheng Kung University (NCKU)**
+> ship in port is safe, but that is not what ships are built for.
+
+- **Team Leader** of **B33F 50UP** CTF Teams
+- **Mastering at National Yang Ming Chiao Tung University(NYCU)**
 - **Freelancer**
 
+---
+
+### Education
+
+- **National Yang Ming Chiao Tung University (NYCU)**  
+  Master's Degree in Computer Science and Information Engineering (CSIE)  
+  September 2025 – Present
+
+- **National Cheng Kung University (NCKU)**  
+  Bachelor's Degree in Computer Science and Information Engineering (CSIE)  
+  September 2021 – June 2025 (Graduated)
 
 
 ---
@@ -67,6 +78,10 @@ Last Update: 2025/6/3
 
 | Competition & Placement | Date |
 |-------------------------|------|
+| 資安技能金盾獎@BambooB33F - rk.1 | Jan. 2026 |
+| CODE x ACE 2025 跨國網路攻防演練 - rk.1 | Nov. 2025 |
+| 神盾盃資安競賽@B33F 50UP - rk.1 | Nov. 2025 |
+| DEVCORE wargame@solo - rk.1 | Aug. 2025 |
 | AIS3 EOF@B33F 50UP - rk.1 | Feb. 2025 |
 | 資安技能金盾獎@好駭客與他們的B33F小夥伴 - rk.2 | Nov. 2024 |
 | 神盾盃資安競賽@B33F 50UP - rk.2 | Nov. 2024 |
@@ -126,10 +141,11 @@ Last Update: 2025/6/3
 
 | CTF            | Year |
 |------------------|------|
+| AIS3 EOF qual&final    | 2026 |
 | AIS3 Pre-exam    | 2025 |
 | SCIST midterm    | 2025 |
 | TSCCTF           | 2024 |
-| CGGC             | 2024 |
+| CGGC  qual&final  | 2024 |
 | SCIST final      | 2024 |
 | AIS3 Pre-exam    | 2024 |
 | SCIST final      | 2023 |
@@ -153,6 +169,8 @@ Last Update: 2025/6/3
 
 | Event | Date | Note |
 |------|------|------|
+| Web-security-backend 課程@AIS3 Junior | Aug. 2025 | - |
+| Web-security 課程@元智資管系資安Corner | Aug. 2025 | - |
 | Web-security 課程@國立台中教育大學白帽社 | May. 2025 | - |
 | Web-security 課程@國立臺北大學 | Mar. 2025 | - |
 | Web-security-advance 課程@中電會 | Dec. 2024 | [slide](https://docs.google.com/presentation/d/1VH1k4uhnUtcbHOO4MJgPgmWn5gyiWgwz5J67eAMF1qw/edit?usp=sharing) |
@@ -204,6 +222,7 @@ Last Update: 2025/6/3
 
 | Event | Date | Position |
 |-------|------|-------|
+| 國立陽明交通大學 資訊系 程式安全 | 2025 | TA |
 | 國立成功大學 網路安全實務與社會實踐 | 2024 | TA |
 | SCIST | 2022/2023/2024 | TA |
 | AIS3 | 2024 | TA（進階資安攻防）& Project Reviewer |
