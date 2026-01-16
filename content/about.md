@@ -203,16 +203,13 @@ Last Update: 2026/1/16
 | HITCON CMT 2023 | Staff(System Development Team Member)  |
 | SITCON Summer Camp 2023 | Staff(Activity Team Member) |
 | HITCON 2022 | Staff(Entry Control Staff) |
-| MOPCON 2022 | Attendee |
 | SITCON 2022 | Staff(On-site Operations Lead) |
 | SITCON Hour of Code 2022 | Staff(Tainan Chief Organizer) |
-| HITCON 2021 | Attendee |
-| SITCON 2021 | Attendee |
 | SITCON Hour of Code 2021 | Staff(Tainan Chief Organizer)&Speaker |
 | SITCON Summer Camp 2021 | Staff(Deputy Leader, Counselor Team) |
-| SITCON 2020 | Attendee |
-| MOPCON 2019 | Attendee |
-| SITCON Camp 2019 | Attendee |
+
+
+
 
 
 
@@ -238,8 +235,11 @@ Last Update: 2026/1/16
 
 | Activity | Date | Note |
 |----------|------|-------------|
+| MOPCON 2022 | Attendee |- |
 | AIS3 Summer Camp | 2022 | - |
 | AIS3 Summer Camp | 2021 | - |
+| HITCON 2021 | Attendee |- |
+| SITCON 2021 | Attendee |- |
 | IOICAMP 台大程式解題競賽集訓營 | 2021 | - |
 | iThome 鐵人賽 30 天主題競賽完賽（AI & Data） | 2021 | [參考連結](https://ithelp.ithome.com.tw/users/20134430/ironman/4307) |
 | 台灣資安大會 | 2021 | - |
@@ -247,8 +247,11 @@ Last Update: 2026/1/16
 | IOICAMP 台大程式解題競賽集訓營 | 2020 | - |
 | 交大人才培育計畫：人工智慧與深度學習 | 2020 | - |
 | 台大簡報課 | 2020 | - |
+| SITCON 2020 | Attendee |- |
 | 3R/V 科技研究社 | 2020 | 副社長兼教學長 |
 | IONCamp 清大暑期程式競賽集訓營 | 2019 | - |
+| MOPCON 2019 | Attendee |- |
+| SITCON Camp 2019 | Attendee |- |
 | 資訊安全暑訓營 MyFirstSecurity Summer Camp | 2019 | - |
 | 錄製國立教育廣播電臺 AR/VR 內容 | 2019 | [來去 VR 體驗車](https://www.ner.gov.tw/program/5a83f4ebc5fd8a01e2df020c/5e0d82131c66c500063e98e0) |
 | 智慧柑仔店揭幕主持 | 2019 | 主持人 |
