@@ -194,17 +194,16 @@ Last Update: 2026/1/16
 
 | Conference | Position |
 |------|------|
-| HITCON 2025 | Staff(Event Team Member) |
-| SITCON 2025 | Speaker |
-| HITCON CMT 2024 | Staff(System Development Team Member) |
-| SITCON 2024 | Staff(Development Team Member) |
-| HITCON CMT 2023 | Staff(System Development Team Member)  |
-| SITCON Summer Camp 2023 | Staff(Activity Team Member) |
-| HITCON 2022 | Staff(Entry Control Staff) |
-| SITCON 2022 | Staff(On-site Operations Lead) |
-| SITCON Hour of Code 2022 | Staff(Tainan Chief Organizer) |
-| SITCON Hour of Code 2021 | Staff(Tainan Chief Organizer)&Speaker |
-| SITCON Summer Camp 2021 | Staff(Deputy Leader, Counselor Team) |
+| HITCON 2025 | Staff(活動組員) |
+| HITCON CMT 2024 | Staff(系統開發組員) |
+| SITCON 2024 | Staff(開發組員) |
+| HITCON CMT 2023 | Staff(系統開發組員)  |
+| SITCON Summer Camp 2023 | Staff(活動組員) |
+| HITCON 2022 | Staff(場務組門機組員) |
+| SITCON 2022 | Staff(場務組機動股股長) |
+| SITCON Hour of Code 2022 | Staff(台南總召) |
+| SITCON Hour of Code 2021 | Staff(台南總召)&Speaker |
+| SITCON Summer Camp 2021 | Staff(隊輔組副組長) |
 
 ### Teaching Assistant
 
