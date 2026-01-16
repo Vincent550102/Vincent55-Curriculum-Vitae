@@ -163,8 +163,6 @@ Last Update: 2026/1/16
 
 ### Courses
 
-
-
 | Event | Date | Note |
 |------|------|------|
 | Web-security-backend 課程@AIS3 Junior | Aug. 2025 | - |
@@ -190,9 +188,9 @@ Last Update: 2026/1/16
 
 ---
 
-## 活動參與
+## Events
 
-### Community
+### Community Stuff
 
 | Conference | Position |
 |------|------|
@@ -208,12 +206,7 @@ Last Update: 2026/1/16
 | SITCON Hour of Code 2021 | Staff(Tainan Chief Organizer)&Speaker |
 | SITCON Summer Camp 2021 | Staff(Deputy Leader, Counselor Team) |
 
-
-
-
-
-
-### 課程助教相關
+### Teaching Assistant
 
 | Event | Date | Position |
 |-------|------|-------|
@@ -231,7 +224,7 @@ Last Update: 2026/1/16
 | coding-X | 2021 | TA |
 
 
-### 活動參與相關
+### Event Participation
 
 | Activity | Date | Note |
 |----------|------|-------------|
