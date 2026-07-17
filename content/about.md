@@ -88,7 +88,6 @@ Last Update: 2026/7/17
 | Wazuh                         | Unsafe Deserialization and Remote Code Execution (CVE-2026-44901) |
 | Caddy                         | Authentication Bypass (CVE-2026-52845)                            |
 | Caddy                         | Path Traversal (CVE-2026-52844)                                   |
-| HAProxy                       | https://github.com/haproxy/haproxy/commit/482b6763a32c37a42ace8f1ede959cba1942afa9                     |
 | Twig                          | Sandbox Escape and Remote Code Execution (CVE-2026-24425)         |
 | Twig                          | Sandbox Bypass (CVE-2026-48807)                                   |
 | Twig                          | Sandbox Bypass (CVE-2026-48808)                                   |
