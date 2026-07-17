@@ -1,5 +1,5 @@
 
-Last Update: 2026/1/16
+Last Update: 2026/7/17
 
 ## ${whoami}
 
@@ -24,7 +24,7 @@ Last Update: 2026/1/16
 
 ## Work Experience
 
-#### 2021/5/3 ~ Present | **Freelancer**
+#### 2021/5 ~ Present | **Freelancer**
 
 - **Backend development** for [**PAIA**](https://www.paia-arena.com/)  
 - Experience in **backend development**, **web scraping**, **chatbot integration** (Telegram, Line), and **productivity tools** (automated report generation, processing, email merging & delivery), **game development**, and **data analysis**  
@@ -32,28 +32,28 @@ Last Update: 2026/1/16
 
 ---
 
-#### 2024/9/2 ~ Present | Red Team Intern, [DEVCORE](https://devco.re/)
+#### 2024/9 ~ 2026/1 | Red Team Intern, [DEVCORE](https://devco.re/)
 
 - Practicing **red team operations**  
 - Research and testing of **Windows AD attack surfaces**
 
 ---
 
-#### 2024/2/26 ~ 2024/9/21 | Cybersecurity Intern, [Telecom Technology Center](https://www.ttc.org.tw/)
+#### 2024/2 ~ 2024/9 | Cybersecurity Intern, [Telecom Technology Center](https://www.ttc.org.tw/)
 
 - Developed a **web traffic analysis tool**  
 - Discovered **vulnerabilities in IoT devices**
 
 ---
 
-#### 2023/9/4 ~ 2024/1/25 | Web Security Intern, [DEVCORE](https://devco.re/)
+#### 2023/9 ~ 2024/1 | Web Security Intern, [DEVCORE](https://devco.re/)
 
 - Discovered **vulnerabilities in IoT devices**  
 - Analyzed **framework architectures** and identified **potential vulnerabilities**
 
 ---
 
-#### 2023/8/1 ~ 2023/9/30 | Backend Intern, [Jubo](https://jubo-health.com/)
+#### 2023/8 ~ 2023/9 | Backend Intern, [Jubo](https://jubo-health.com/)
 
 - Worked on [**Jubo NIS**](https://smc.jubo.health/login) system  
 - **Integrated third-party APIs** through external collaboration  
@@ -61,11 +61,38 @@ Last Update: 2026/1/16
 
 ---
 
-#### 2020/7/20 ~ 2020/8/28 | Web Crawler Intern, [iKala](https://ikala.ai/)
+#### 2020/7 ~ 2020/8 | Web Crawler Intern, [iKala](https://ikala.ai/)
 
 - Conducted **data analysis**  
 - Developed **auto-generated crawlers** to reduce build time from **20 minutes to 20 seconds**  
 - Built a **semi-automated API discovery tool**
+
+
+---
+
+
+## Vulnerability Reports
+
+| Company / Product             | Vulnerability                                                     |
+| ----------------------------- | ----------------------------------------------------------------- |
+| Apache Airflow                | SQL Injection (CVE-2025-27018)                                    |
+| Apache Airflow                | Command Injection (CVE-2025-54550)                                |
+| SQLite                        | Arg Injection (CVE-2025-71316)                                    |
+| TYPO3 CMS                     | Information Disclosure (CVE-2026-47351)                           |
+| Winter CMS                    | Broken Access Control (CVE-2026-32639)                           |
+| Concrete CMS                  | Privilege Escalation (CVE-2026-8350)                              |
+| Apache Airflow                | Secret Masking Bypass (CVE-2026-42358)                            |
+| Apache Airflow                | Secret Masking Bypass (CVE-2026-42360)                            |
+| ERPNext                       | REDACTED                                                       |
+| Wazuh                         | Arbitrary File Deletion and Privilege Escalation (CVE-2026-46343) |
+| Wazuh                         | Unsafe Deserialization and Remote Code Execution (CVE-2026-44901) |
+| Caddy                         | Authentication Bypass (CVE-2026-52845)                            |
+| Caddy                         | Path Traversal (CVE-2026-52844)                                   |
+| HAProxy                       | https://github.com/haproxy/haproxy/commit/482b6763a32c37a42ace8f1ede959cba1942afa9                     |
+| Twig                          | Sandbox Escape and Remote Code Execution (CVE-2026-24425)         |
+| Twig                          | Sandbox Bypass (CVE-2026-48807)                                   |
+| Twig                          | Sandbox Bypass (CVE-2026-48808)                                   |
+
 
 
 ---
@@ -139,6 +166,7 @@ Last Update: 2026/1/16
 
 | CTF            | Year |
 |------------------|------|
+| AIS3 Pre-exam    | 2026 |
 | AIS3 EOF qual&final    | 2026 |
 | AIS3 Pre-exam    | 2025 |
 | SCIST midterm    | 2025 |
@@ -194,6 +222,7 @@ Last Update: 2026/1/16
 
 | Conference | Position |
 |------|------|
+| HITCON 2026 | Staff(活動組員) |
 | HITCON 2025 | Staff(活動組員) |
 | HITCON CMT 2024 | Staff(系統開發組員) |
 | SITCON 2024 | Staff(開發組員) |
