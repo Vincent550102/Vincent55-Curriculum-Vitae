@@ -1,5 +1,5 @@
 
-Last Update: 2026/7/17
+Last Update: 2026/7/30
 
 ## ${whoami}
 
@@ -83,7 +83,7 @@ Last Update: 2026/7/17
 | Concrete CMS                  | Privilege Escalation (CVE-2026-8350)                              |
 | Apache Airflow                | Secret Masking Bypass (CVE-2026-42358)                            |
 | Apache Airflow                | Secret Masking Bypass (CVE-2026-42360)                            |
-| ERPNext                       | REDACTED                                                       |
+| ERPNext                       | SSTI to RCE (CVE-2026-65974)                                                       |
 | Wazuh                         | Arbitrary File Deletion and Privilege Escalation (CVE-2026-46343) |
 | Wazuh                         | Unsafe Deserialization and Remote Code Execution (CVE-2026-44901) |
 | Caddy                         | Authentication Bypass (CVE-2026-52845)                            |
