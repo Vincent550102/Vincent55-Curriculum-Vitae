@@ -12,14 +12,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Last Update: 2026/7/17
+      <description>Last Update: 2026/7/30
 ${whoami}  Team Leader of B33F 50UP CTF Teams Mastering at National Yang Ming Chiao Tung University(NYCU) Freelancer   ship in port is safe, but that is not what ships are built for.
  Education   National Yang Ming Chiao Tung University (NYCU)
 Master&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)
 September 2025 – Present
   National Cheng Kung University (NCKU)
 Bachelor&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)</description>
-      <content>&lt;p&gt;Last Update: 2026/7/17&lt;/p&gt;
+      <content>&lt;p&gt;Last Update: 2026/7/30&lt;/p&gt;
 &lt;h2 id=&#34;whoami&#34;&gt;${whoami}&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Team Leader&lt;/strong&gt; of &lt;strong&gt;B33F 50UP&lt;/strong&gt; CTF Teams&lt;/li&gt;
@@ -126,7 +126,7 @@ September 2021 – June 2025 (Graduated)&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;ERPNext&lt;/td&gt;
-&lt;td&gt;REDACTED&lt;/td&gt;
+&lt;td&gt;SSTI to RCE (CVE-2026-65974)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Wazuh&lt;/td&gt;
