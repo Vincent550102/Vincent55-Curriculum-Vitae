@@ -3,7 +3,7 @@ theme: terminal
 paginate: 5
 publishdir: docs
 params:
-  ogImage: /images/og-ray.jpg
+  ogImage: /images/og-ray-wide.jpg
   # dir name of your blog content (default is `content/posts`)
   contentTypeName: content
   # ["orange", "blue", "red", "green", "pink"]
