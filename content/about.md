@@ -24,6 +24,12 @@ Last Update: 2026/10/2
 
 ## Work Experience
 
+#### 2026/9 ~ Present | Research Intern, [DEVCORE](https://devco.re/)
+
+- Researching **Windows AD unknown attack surfaces**
+
+---
+
 #### 2021/5 ~ Present | **Freelancer**
 
 - **Backend development** for [**PAIA**](https://www.paia-arena.com/)  
