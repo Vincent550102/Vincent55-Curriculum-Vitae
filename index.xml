@@ -12,14 +12,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Last Update: 2026/7/30
+      <description>Last Update: 2026/10/2
 ${whoami}  Team Leader of B33F 50UP CTF Teams Mastering at National Yang Ming Chiao Tung University(NYCU) Freelancer   ship in port is safe, but that is not what ships are built for.
  Education   National Yang Ming Chiao Tung University (NYCU)
 Master&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)
 September 2025 – Present
   National Cheng Kung University (NCKU)
 Bachelor&amp;rsquo;s Degree in Computer Science and Information Engineering (CSIE)</description>
-      <content>&lt;p&gt;Last Update: 2026/7/30&lt;/p&gt;
+      <content>&lt;p&gt;Last Update: 2026/10/2&lt;/p&gt;
 &lt;h2 id=&#34;whoami&#34;&gt;${whoami}&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Team Leader&lt;/strong&gt; of &lt;strong&gt;B33F 50UP&lt;/strong&gt; CTF Teams&lt;/li&gt;
@@ -155,6 +155,26 @@ September 2021 – June 2025 (Graduated)&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Twig&lt;/td&gt;
 &lt;td&gt;Sandbox Bypass (CVE-2026-48808)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cPanel &amp;amp; WHM&lt;/td&gt;
+&lt;td&gt;HTTP Request Smuggling (&lt;a href=&#34;https://support.cpanel.net/hc/en-us/articles/42285024734743-Security-CVE-2026-58047-HTTP-Request-Smuggling&#34;&gt;CVE-2026-58047&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cPanel &amp;amp; WHM&lt;/td&gt;
+&lt;td&gt;Database Privilege Escalation (&lt;a href=&#34;https://support.cpanel.net/hc/en-us/articles/42285745783703-Security-CVE-2026-58048-Database-Privilege-Escalation&#34;&gt;CVE-2026-58048&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Envoy&lt;/td&gt;
+&lt;td&gt;HTTP RBAC Authorization Bypass (&lt;a href=&#34;https://github.com/envoyproxy/envoy/security/advisories/GHSA-23xh-2qxr-3xv8&#34;&gt;CVE-2026-73552&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nginx UI&lt;/td&gt;
+&lt;td&gt;OTP Step-up Authentication Bypass (&lt;a href=&#34;https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-vc32-4gwf-77xp&#34;&gt;CVE-2026-84360&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nginx UI&lt;/td&gt;
+&lt;td&gt;Incomplete Session-token Revocation (&lt;a href=&#34;https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-wq4w-vwvq-q3x9&#34;&gt;CVE-2026-84321&lt;/a&gt;)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
