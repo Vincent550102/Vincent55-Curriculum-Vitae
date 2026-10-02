@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://vincent55.tw/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://vincent55.tw/categories/</loc>
   </url>
   
   <url>
-    <loc>/contacts/</loc>
+    <loc>https://vincent55.tw/contacts/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://vincent55.tw/tags/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://vincent55.tw/</loc>
   </url>
   
 </urlset>
