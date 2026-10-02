@@ -95,7 +95,7 @@ Last Update: 2026/10/2
 | cPanel & WHM                  | Privilege Escalation ([CVE-2026-58048](https://support.cpanel.net/hc/en-us/articles/42285745783703-Security-CVE-2026-58048-Database-Privilege-Escalation)) |
 | Envoy                         | Authorization Bypass ([CVE-2026-73552](https://github.com/envoyproxy/envoy/security/advisories/GHSA-23xh-2qxr-3xv8)) |
 | Nginx UI                      | Authentication Bypass ([CVE-2026-84360](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-vc32-4gwf-77xp)) |
-| Nginx UI                      | Session Revocation Bypass ([CVE-2026-84321](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-wq4w-vwvq-q3x9)) |
+| Nginx UI                      | Broken Authentication ([CVE-2026-84321](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-wq4w-vwvq-q3x9)) |
 
 
 
