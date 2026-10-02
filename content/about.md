@@ -107,6 +107,8 @@ Last Update: 2026/10/2
 
 | Competition & Placement | Date |
 |-------------------------|------|
+| DEFCON CTF 34@Orange Fan Club - rk.2 (Qual) / rk.6 (Final) | Aug. 2026 |
+| 第 56 屆全國技能競賽（雲端運算） - rk.2 | Jul. 2026 |
 | 資安技能金盾獎@BambooB33F - rk.1 | Jan. 2026 |
 | CODE x ACE 2025 跨國網路攻防演練 - rk.1 | Nov. 2025 |
 | 神盾盃資安競賽@B33F 50UP - rk.1 | Nov. 2025 |
