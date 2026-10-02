@@ -1,8 +1,9 @@
-baseUrl: /
+baseUrl: https://vincent55.tw/
 theme: terminal
 paginate: 5
 publishdir: docs
 params:
+  ogImage: /images/og-ray.jpg
   # dir name of your blog content (default is `content/posts`)
   contentTypeName: content
   # ["orange", "blue", "red", "green", "pink"]

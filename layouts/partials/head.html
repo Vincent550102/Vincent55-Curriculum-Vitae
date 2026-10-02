@@ -28,8 +28,14 @@
   <link rel="shortcut icon" href="{{ printf "img/favicon/%s.png" ($.Site.Params.ThemeColor | default "orange") | absURL }}">
 {{ end }}
 
+{{ $ogImage := $.Site.Params.ogImage | absURL }}
+{{ if and (not .IsHome) (isset .Params "cover") }}
+  {{ $ogImage = .Param "cover" | absURL }}
+{{ end }}
+
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="{{ $ogImage }}">
 {{ if (isset $.Site.Params "twitter") }}
   {{ if (isset $.Site.Params.Twitter "site") }}
     <meta name="twitter:site" content="{{ $.Site.Params.Twitter.site }}" />
@@ -44,17 +50,14 @@
 <meta property="og:description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ $.Site.Title }}" />
-{{ if and (not .IsHome) (isset .Params "cover") }}
-  <meta property="og:image" content="{{ .Param "cover" | absURL }}">
-{{ else }}
-  {{ if isset $.Site.Params "favicon" }}
-    <meta property="og:image" content="{{ $.Site.Params.favicon | absURL }}">
-  {{ else }}
-    <meta property="og:image" content="{{ printf "img/favicon/%s.png" $.Site.Params.ThemeColor | absURL }}">
-  {{ end }}
+<meta property="og:image" content="{{ $ogImage }}">
+{{ if not (and (not .IsHome) (isset .Params "cover")) }}
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="640">
+<meta property="og:image:alt" content="Ray swimming underwater">
+<meta name="twitter:image:alt" content="Ray swimming underwater">
 {{ end }}
-<meta property="og:image:width" content="2048">
-<meta property="og:image:height" content="1024">
 {{ range .Params.categories }}
   <meta property="article:section" content="{{ . }}" />
 {{ end }}
