@@ -1,5 +1,5 @@
 
-Last Update: 2026/7/30
+Last Update: 2026/10/2
 
 ## ${whoami}
 
@@ -91,6 +91,11 @@ Last Update: 2026/7/30
 | Twig                          | Sandbox Escape and Remote Code Execution (CVE-2026-24425)         |
 | Twig                          | Sandbox Bypass (CVE-2026-48807)                                   |
 | Twig                          | Sandbox Bypass (CVE-2026-48808)                                   |
+| cPanel & WHM                  | HTTP Request Smuggling ([CVE-2026-58047](https://support.cpanel.net/hc/en-us/articles/42285024734743-Security-CVE-2026-58047-HTTP-Request-Smuggling)) |
+| cPanel & WHM                  | Database Privilege Escalation ([CVE-2026-58048](https://support.cpanel.net/hc/en-us/articles/42285745783703-Security-CVE-2026-58048-Database-Privilege-Escalation)) |
+| Envoy                         | HTTP RBAC Authorization Bypass ([CVE-2026-73552](https://github.com/envoyproxy/envoy/security/advisories/GHSA-23xh-2qxr-3xv8)) |
+| Nginx UI                      | OTP Step-up Authentication Bypass ([CVE-2026-84360](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-vc32-4gwf-77xp)) |
+| Nginx UI                      | Incomplete Session-token Revocation ([CVE-2026-84321](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-wq4w-vwvq-q3x9)) |
 
 
 
