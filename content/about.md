@@ -1,3 +1,6 @@
+---
+description: "Security researcher and CTF player. DEVCORE Research Intern and CSIE master's student at NYCU."
+---
 
 Last Update: 2026/10/2
 
