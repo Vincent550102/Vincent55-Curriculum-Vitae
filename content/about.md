@@ -1,5 +1,5 @@
 ---
-description: "Security researcher and CTF player. DEVCORE Research Intern and CSIE master's student at NYCU."
+description: "ship in port is safe, but that is not what ships are built for."
 ---
 
 Last Update: 2026/10/2
