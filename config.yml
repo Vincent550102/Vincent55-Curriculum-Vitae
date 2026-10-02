@@ -32,7 +32,7 @@ languages:
   en:
     languages: English
     languageCode: en
-    title: Vincent55' CV
+    title: "Vincent55::CV"
     subtitle: About me
     keywords: ""
     menuMore: Show more

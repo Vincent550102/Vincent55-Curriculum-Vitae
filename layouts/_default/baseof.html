@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language }}">
+<head>
+  {{ block "title" . }}
+    <title>{{ if and (not .IsHome) .Title }}{{ .Title }} :: {{ end }}{{ $.Site.Title }}</title>
+  {{ end }}
+  {{ partial "head.html" . }}
+</head>
+<body class="{{- ( or .Params.color $.Site.Params.ThemeColor ) -}}">
+{{ $container := cond $.Site.Params.FullWidthTheme "container full" (cond $.Site.Params.CenterTheme "container center" "container") }}
+
+<div class="{{- $container -}}{{- cond ($.Site.Params.oneHeadingSize | default true) " headings--one-size" "" }}">
+
+  {{ partial "header.html" . }}
+
+  <div class="content">
+    {{ block "main" . }}
+    {{ end }}
+  </div>
+
+  {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+  {{ end }}
+</div>
+
+</body>
+</html>
