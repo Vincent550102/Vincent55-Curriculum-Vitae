@@ -2,7 +2,7 @@
 description: "ship in port is safe, but that is not what ships are built for."
 ---
 
-Last Update: 2026/10/2
+Last Update: 2026/11/3
 
 ## ${whoami}
 
@@ -105,6 +105,11 @@ Last Update: 2026/10/2
 | Envoy                         | Authorization Bypass ([CVE-2026-73552](https://github.com/envoyproxy/envoy/security/advisories/GHSA-23xh-2qxr-3xv8)) |
 | Nginx UI                      | Authentication Bypass ([CVE-2026-84360](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-vc32-4gwf-77xp)) |
 | Nginx UI                      | Broken Authentication ([CVE-2026-84321](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-wq4w-vwvq-q3x9)) |
+| Nginx UI                      | Arbitrary File Write ([CVE-2026-107810](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-p8v3-89rh-jxc7)) |
+| MariaDB Server                | Privilege Escalation ([CVE-2026-107818](https://github.com/MariaDB/server/security/advisories/GHSA-mhvc-vqcq-7vq5)) |
+| Microsoft .NET / WPF          | Remote Code Execution ([CVE-2026-70035](https://github.com/dotnet/wpf/security/advisories/GHSA-4j9v-h7pp-725h)) |
+| Microsoft .NET / WPF          | Remote Code Execution ([CVE-2026-83520](https://github.com/dotnet/wpf/security/advisories/GHSA-4w5f-7jp2-w48g)) |
+| ASP.NET Core                  | Denial of Service ([CVE-2026-70159](https://github.com/dotnet/aspnetcore/security/advisories/GHSA-334f-vvp4-7g6p)) |
 
 
 
