@@ -2,7 +2,7 @@
 description: "ship in port is safe, but that is not what ships are built for."
 ---
 
-Last Update: 2026/11/3
+Last Update: 2026/11/14
 
 ## ${whoami}
 
@@ -110,6 +110,8 @@ Last Update: 2026/11/3
 | Microsoft .NET / WPF          | Remote Code Execution ([CVE-2026-70035](https://github.com/dotnet/wpf/security/advisories/GHSA-4j9v-h7pp-725h)) |
 | Microsoft .NET / WPF          | Remote Code Execution ([CVE-2026-83520](https://github.com/dotnet/wpf/security/advisories/GHSA-4w5f-7jp2-w48g)) |
 | ASP.NET Core                  | Denial of Service ([CVE-2026-70159](https://github.com/dotnet/aspnetcore/security/advisories/GHSA-334f-vvp4-7g6p)) |
+| Microsoft .NET                | Remote Code Execution ([CVE-2026-70197](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197)) |
+| Microsoft Active Directory    | Privilege Escalation ([CVE-2026-118148](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118148)) |
 
 
 
